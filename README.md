@@ -27,19 +27,18 @@
 ## 📂 專案結構
 
 ```text
-tech-news-daily/
-├── scripts/          # 抓取、渲染、版控腳本
-├── frontend/
-│   ├── archives/     # 前端歷史歸檔
-│   ├── daily/        # 每日日誌 (YYYY-MM-DD.md)
-│   └── README.md     # 前端大廳 & 近 7 日索引
-├── backend/
-│   ├── archives/
-│   ├── daily/
-│   └── README.md
-├── ai/
-│   ├── archives/
-│   ├── daily/
-│   └── README.md
-└── README.md         # 本文件
+📦 tech-news-daily
+ ┣ 📂 frontend/
+ ┃ ┣ 📂 archives/                 # 前端歷史歸檔 (存放超過 7 天的內容)
+ ┃ ┣ 📂 daily/                    # 前端每日日誌 (YYYY-MM-DD.md)
+ ┃ ┗ 📜 README.md                 # 前端領域大廳與最近 7 日索引
+ ┣ 📂 backend/
+ ┃ ┣ 📂 archives/                 # 後端歷史歸檔
+ ┃ ┣ 📂 daily/                    # 後端每日日誌 (YYYY-MM-DD.md)
+ ┃ ┗ 📜 README.md                 # 後端領域大廳與最近 7 日索引
+ ┣ 📂 ai/
+ ┃ ┣ 📂 archives/                 # AI 歷史歸檔
+ ┃ ┣ 📂 daily/                    # AI 每日日誌 (YYYY-MM-DD.md)
+ ┃ ┗ 📜 README.md                 # AI 領域大廳與最近 7 日索引
+ ┗ 📜 README.md                   # 專案總大廳與今日各領域頭條
 ```
