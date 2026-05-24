@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | — |
-| ⚙️ 後端 | — |
-| 🤖 AI | — |
+| 🎨 前端 | [Vite 8.0.14：Rolldown 升級與多項修正](./frontend/daily/2026-05-24.md) |
+| ⚙️ 後端 | [AWS MCP Server 正式 GA：以 IAM 治理 AI 對 AWS API 的存取](./backend/daily/2026-05-24.md) |
+| 🤖 AI | [Reasonix：DeepSeek 原生 AI coding agent](./ai/daily/2026-05-24.md) |
 
 ---
 
