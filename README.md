@@ -8,7 +8,7 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 8.0.14：Rolldown 升級與 dev server 修正](./frontend/daily/2026-05-25.md) |
+| 🎨 前端 | [TanStack Router：修正 Vite dev 中的 encoded adapter ids](./frontend/daily/2026-05-25.md) |
 | ⚙️ 後端 | [Node.js 提議內建虛擬檔案系統，掀起治理討論](./backend/daily/2026-05-25.md) |
 | 🤖 AI | [DeepSeek Reasonix：終端機原生 coding agent 持續受關注](./ai/daily/2026-05-25.md) |
 
