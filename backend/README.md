@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-25](./daily/2026-05-25.md) — Node.js 提議內建虛擬檔案系統，掀起治理討論
 - [2026-05-24](./daily/2026-05-24.md) — AWS MCP Server 正式 GA：以 IAM 治理 AI 對 AWS API 的存取
 <!-- DAILY_INDEX_END -->
 
