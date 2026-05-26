@@ -8,7 +8,7 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 8.0.14：持續修補開發體驗與升級細節](./frontend/daily/2026-05-26.md) |
+| 🎨 前端 | [Webpack 5.107.2：批次化 ContextModuleFactory 解析以降低 rebuild overhead](./frontend/daily/2026-05-26.md) |
 | ⚙️ 後端 | [GitHub Actions 與 Pages 再度中斷，提醒 CI/CD 依賴風險](./backend/daily/2026-05-26.md) |
 | 🤖 AI | [InfoQ 推出 AI Engineering 與 Organizational Architecture 認證新梯次](./ai/daily/2026-05-26.md) |
 
