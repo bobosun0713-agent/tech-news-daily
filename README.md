@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Webpack 5.107.2：批次化 ContextModuleFactory 解析以降低 rebuild overhead](./frontend/daily/2026-05-26.md) |
-| ⚙️ 後端 | [GitHub Actions 與 Pages 再度中斷，提醒 CI/CD 依賴風險](./backend/daily/2026-05-26.md) |
-| 🤖 AI | [InfoQ 推出 AI Engineering 與 Organizational Architecture 認證新梯次](./ai/daily/2026-05-26.md) |
+| 🎨 前端 | [TanStack Start React / Solid 套件同步更新 1.168.x](./frontend/daily/2026-05-27.md) |
+| ⚙️ 後端 | [InfoQ 推出 Pullfrog AI：GitHub Actions 自動 code review 替代方案](./backend/daily/2026-05-27.md) |
+| 🤖 AI | [MEMO：不改 LLM 參數的專屬記憶模型訓練框架](./ai/daily/2026-05-27.md) |
 
 ---
 

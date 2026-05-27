@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-27](./daily/2026-05-27.md) — MEMO：不改 LLM 參數的專屬記憶模型訓練框架
 - [2026-05-26](./daily/2026-05-26.md) — InfoQ 推出 AI Engineering 與 Organizational Architecture 認證新梯次
 - [2026-05-25](./daily/2026-05-25.md) — DeepSeek Reasonix：終端機原生 coding agent 持續受關注
 - [2026-05-24](./daily/2026-05-24.md) — Reasonix、Grok Skills 與 Cloudflare agent infra
