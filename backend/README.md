@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-27](./daily/2026-05-27.md) — InfoQ 推出 Pullfrog AI：GitHub Actions 自動 code review 替代方案
 - [2026-05-26](./daily/2026-05-26.md) — GitHub Actions 與 Pages 再度中斷，提醒 CI/CD 依賴風險
 - [2026-05-25](./daily/2026-05-25.md) — Node.js 提議內建虛擬檔案系統，掀起治理討論
 - [2026-05-24](./daily/2026-05-24.md) — AWS MCP、BigQuery 與 Discord/ScyllaDB 自動化更新
