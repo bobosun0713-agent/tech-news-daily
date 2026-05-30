@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-05-30](./daily/2026-05-30.md) — 停止在 useEffect 裡抓資料，改用 Request Strategies
 - [2026-05-27](./daily/2026-05-27.md) — TanStack Start React / Solid 套件同步更新 1.168.x
 - [2026-05-26](./daily/2026-05-26.md) — Webpack 5.107.2：批次化 ContextModuleFactory 解析以降低 rebuild overhead
 - [2026-05-25](./daily/2026-05-25.md) — TanStack Router：修正 Vite dev 中的 encoded adapter ids
