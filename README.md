@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 資料抓取策略與效能優化再升級](./frontend/daily/2026-05-30.md) |
-| ⚙️ 後端 | [Google Cloud 停用 Railway 帳號引發平台級中斷](./backend/daily/2026-05-30.md) |
-| 🤖 AI | [Hermes Agent Tool Search 讓 MCP 準確率再提升](./ai/daily/2026-05-30.md) |
+| 🎨 前端 | [Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s](./frontend/daily/2026-05-31.md) |
+| ⚙️ 後端 | [Pocketbase – open-source realtime back end in 1 file](./backend/daily/2026-05-31.md) |
+| 🤖 AI | [I Made My AI Models Argue, Then Let Hermes Be the Judge](./ai/daily/2026-05-31.md) |
 
 ---
 
