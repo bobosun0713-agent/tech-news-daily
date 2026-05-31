@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s](./frontend/daily/2026-05-31.md) |
+| 🎨 前端 | [僅靠延遲載入不足：我如何把載入時間從 15 秒降到 1.1 秒 (Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s)](./frontend/daily/2026-05-31.md) |
 | ⚙️ 後端 | [Pocketbase – open-source realtime back end in 1 file](./backend/daily/2026-05-31.md) |
-| 🤖 AI | [I Made My AI Models Argue, Then Let Hermes Be the Judge](./ai/daily/2026-05-31.md) |
+| 🤖 AI | [我讓 AI 模型互相辯論，然後讓 Hermes 做裁判 (I Made My AI Models Argue, Then Let Hermes Be the Judge)](./ai/daily/2026-05-31.md) |
 
 ---
 
