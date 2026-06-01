@@ -9,7 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
-- [2026-06-01](./daily/2026-06-01.md) — Vite 8 正式版發布，Rolldown 驅動建置流程進一步成熟 (Vite 8.0 is out!)
+- [2026-06-01](./daily/2026-06-01.md) — Vendor chunking 實戰：把 React bundle 切開後更容易控制首屏載入 (Vendor Chunking: The React Optimization I Wish I'd Known Earlier)
 - [2026-05-31](./daily/2026-05-31.md) — Lazy Loading Was"t Enough: How I Cut Load Time from 15s to 1.1s
 - [2026-05-30](./daily/2026-05-30.md) — 停止在 useEffect 裡抓資料，改用 Request Strategies
 - [2026-05-27](./daily/2026-05-27.md) — TanStack Start React / Solid 套件同步更新 1.168.x

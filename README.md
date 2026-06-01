@@ -8,7 +8,7 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 8 正式版發布，Rolldown 驅動建置流程進一步成熟 (Vite 8.0 is out!)](./frontend/daily/2026-06-01.md) |
+| 🎨 前端 | [Vendor chunking 實戰：把 React bundle 切開後更容易控制首屏載入 (Vendor Chunking: The React Optimization I Wish I'd Known Earlier)](./frontend/daily/2026-06-01.md) |
 | ⚙️ 後端 | [Shopify 以 BFS GraphQL 引擎把欄位執行速度提升最高 15 倍 (Shopify Reports 15X Faster Graphql Execution with Breadth First Engine)](./backend/daily/2026-06-01.md) |
 | 🤖 AI | [Microsoft Agent Governance Toolkit 實作：工具呼叫納入審批與稽核 (An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls)](./ai/daily/2026-06-01.md) |
 
