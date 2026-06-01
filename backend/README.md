@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-06-01](./daily/2026-06-01.md) — Shopify 以 BFS GraphQL 引擎把欄位執行速度提升最高 15 倍 (Shopify Reports 15X Faster Graphql Execution with Breadth First Engine)
 - [2026-05-31](./daily/2026-05-31.md) — Pocketbase – 一個檔案的開源即時後端 (Pocketbase – open-source realtime back end in 1 file)
 - [2026-05-30](./daily/2026-05-30.md) — Google Cloud 暫停 Railway 生產帳號，引發八小時平台級中斷
 - [2026-05-27](./daily/2026-05-27.md) — InfoQ 推出 Pullfrog AI：GitHub Actions 自動 code review 替代方案
