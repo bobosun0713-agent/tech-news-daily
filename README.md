@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vendor chunking 實戰：把 React bundle 切開後更容易控制首屏載入 (Vendor Chunking: The React Optimization I Wish I'd Known Earlier)](./frontend/daily/2026-06-01.md) |
-| ⚙️ 後端 | [Shopify 以 BFS GraphQL 引擎把欄位執行速度提升最高 15 倍 (Shopify Reports 15X Faster Graphql Execution with Breadth First Engine)](./backend/daily/2026-06-01.md) |
-| 🤖 AI | [Microsoft Agent Governance Toolkit 實作：工具呼叫納入審批與稽核 (An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls)](./ai/daily/2026-06-01.md) |
+| 🎨 前端 | [工作流編輯器 2.0 升級為可嵌入 React SDK (How we turned our workflow editor into a real SDK)](./frontend/daily/2026-06-02.md) |
+| ⚙️ 後端 | [OpenTelemetry Blueprints 以範本化部署降低企業可觀測性導入複雜度 (OpenTelemetry Launches “Blueprints” Initiative to Simplify Enterprise Observability Adoption)](./backend/daily/2026-06-02.md) |
+| 🤖 AI | [Qwen3.7-Plus 把視覺、深度推理、工具調用與自主迭代整合進 Bailian 平台 (Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform)](./ai/daily/2026-06-02.md) |
 
 ---
 
