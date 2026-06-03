@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [工作流編輯器 2.0 升級為可嵌入 React SDK (How we turned our workflow editor into a real SDK)](./frontend/daily/2026-06-02.md) |
-| ⚙️ 後端 | [OpenTelemetry Blueprints 以範本化部署降低企業可觀測性導入複雜度 (OpenTelemetry Launches “Blueprints” Initiative to Simplify Enterprise Observability Adoption)](./backend/daily/2026-06-02.md) |
-| 🤖 AI | [Qwen3.7-Plus 把視覺、深度推理、工具調用與自主迭代整合進 Bailian 平台 (Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform)](./ai/daily/2026-06-02.md) |
+| 🎨 前端 | [Hermes Desktop 推出原生跨平台前端，讓 Hermes Agent CLI 也能用 GUI 操作 (Nous Research Releases Hermes Desktop: A Native Cross-Platform Front End for Hermes Agent v0.15.2 with Streaming Tool Output)](./frontend/daily/2026-06-03.md) |
+| ⚙️ 後端 | [Google 全球服務叢集的協調式 A/B 測試系統揭示大規模實驗治理做法 (Inside Google’s System for Coordinated A/B Testing Across Its Global Service Fleet)](./backend/daily/2026-06-03.md) |
+| 🤖 AI | [DPO 從聊天機器人對話微調走向更廣泛的偏好優化場景 (Direct Preference Optimization Beyond Chatbots)](./ai/daily/2026-06-03.md) |
 
 ---
 
