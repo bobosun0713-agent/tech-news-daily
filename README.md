@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [別再硬編碼 Banner 彈窗：Next.js 代碼中的公告槽位設計](./frontend/daily/2026-08-23.md) |
-| ⚙️ 後端 | [5 微秒內完成 JIT 編譯？](./backend/daily/2026-08-23.md) |
-| 🤖 AI | [EnvHarness：讓靜態世界變成 agent 學習場](./ai/daily/2026-08-23.md) |
+| 🎨 前端 | [你的 Next.js App 可能正在外洩秘密：先檢查 Client Bundle (Your Next.js App Might Be Leaking Secrets Right Now. Check Your Client Bundle.)](./frontend/daily/2026-08-24.md) |
+| ⚙️ 後端 | [建對平台工程：先對齊組織真正需要的能力，再談平台擴張 (Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs)](./backend/daily/2026-08-24.md) |
+| 🤖 AI | [從單一 agent 走向系統級智能：Graph Engineering in the Era of LLM Agents (Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence)](./ai/daily/2026-08-24.md) |
 
 ---
 
