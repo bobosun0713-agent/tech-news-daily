@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-24](./daily/2026-08-24.md) — 建對平台工程：先對齊組織真正需要的能力，再談平台擴張 (Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs)
 - [2026-08-23](./daily/2026-08-23.md) — 5 微秒內完成 JIT 編譯？ (JIT Compiling Code in 5μs)
 - [2026-08-22](./daily/2026-08-22.md) — 不超賣的 API 端點：200 張票與百萬點擊的守門設計 (Millions of Clicks, 200 Tickets: Building an Endpoint That Cannot Oversell)
 - [2026-08-21](./daily/2026-08-21.md) — API 速率限制該把 counter 放在 Redis、Postgres 還是 Edge？ (Rate Limiting Your Own API: Should the Counter Live in Redis, Postgres, or at the Edge?)
 - [2026-08-20](./daily/2026-08-20.md) — Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)
 - [2026-08-18](./daily/2026-08-18.md) — GitHub 將堆疊式 Pull Request 帶進公開預覽 (GitHub Brings Stacked Pull Requests to Public Preview)
 - [2026-08-17](./daily/2026-08-17.md) — Cloudflare 把 CI Pipeline 變成 TypeScript 工作流 (Cloudflare Turns CI Pipelines into TypeScript Workflows)
-- [2026-08-16](./daily/2026-08-16.md) — AWS 開源 Dogwood：用 Cedar 管制 agent 工具呼叫序列 (AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-16](./archives/2026-08-page-1.md) — AWS 開源 Dogwood：用 Cedar 管制 agent 工具呼叫序列 (AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls)
 - [2026-08-15](./archives/2026-08-page-1.md) — 快取到底該放哪裡？先分清責任邊界 (Where Should the Cache Live?)
 - [2026-08-14](./daily/2026-08-14.md) — 如何在不開伺服器的情況下接收 webhook (How to Set Up a Webhook Receiver Without Running a Server)
 - [2026-08-12](./daily/2026-08-12.md) — Netflix 改用雲原生排程系統 Kueue 取代自建方案 (Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution)
