@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [你的 Next.js App 可能正在外洩秘密：先檢查 Client Bundle (Your Next.js App Might Be Leaking Secrets Right Now. Check Your Client Bundle.)](./frontend/daily/2026-08-24.md) |
-| ⚙️ 後端 | [建對平台工程：先對齊組織真正需要的能力，再談平台擴張 (Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs)](./backend/daily/2026-08-24.md) |
-| 🤖 AI | [從單一 agent 走向系統級智能：Graph Engineering in the Era of LLM Agents (Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence)](./ai/daily/2026-08-24.md) |
+| 🎨 前端 | [靜態 SSR 也能做動態公告：避免 CLS 的個人化槽位設計 (How to serve dynamic user announcements with static SSR performance)](./frontend/daily/2026-08-25.md) |
+| ⚙️ 後端 | [BMC 漏洞讓千台伺服器暴露於硬體級入侵風險 (BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise)](./backend/daily/2026-08-25.md) |
+| 🤖 AI | [Apodex 1.1：把 agentic intelligence 拉進可驗證長任務 (Apodex 1.1: Scaling Agentic Intelligence for Complex Work)](./ai/daily/2026-08-25.md) |
 
 ---
 
