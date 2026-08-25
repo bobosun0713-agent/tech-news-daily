@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-25](./daily/2026-08-25.md) — Apodex 1.1：把 agentic intelligence 拉進可驗證長任務 (Apodex 1.1: Scaling Agentic Intelligence for Complex Work)
 - [2026-08-24](./daily/2026-08-24.md) — 從單一 agent 走向系統級智能：Graph Engineering in the Era of LLM Agents (Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence)
 - [2026-08-23](./daily/2026-08-23.md) — EnvHarness：讓靜態世界變成 agent 學習場 (EnvHarness: Awakening Static Worlds for Agent Learning)
 - [2026-08-22](./daily/2026-08-22.md) — 4DAnyone：從單目影片生成可重建的 4D 人物 (4DAnyone: Create Anyone in 4D from a Casual Monocular Video)
 - [2026-08-21](./daily/2026-08-21.md) — EnvHarness：讓靜態世界變成 agent 訓練場 (EnvHarness: Awakening Static Worlds for Agent Learning)
 - [2026-08-20](./daily/2026-08-20.md) — Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)
 - [2026-08-18](./daily/2026-08-18.md) — 可視世界評估再進一步：HarnessEval-W 讓 agent 自動評測視覺世界 (HarnessEval-W: Agentifying the Evaluation of Visual Worlds)
-- [2026-08-17](./daily/2026-08-17.md) — 真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,9 +23,10 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-17](./archives/2026-08-page-1.md) — 真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)
 - [2026-08-16](./archives/2026-08-page-1.md) — 多代理系統正在遇到什麼問題？Anthropic 的觀察整理 (Patterns and problems in emerging multi-agent systems)
 - [2026-08-15](./archives/2026-08-page-1.md) — 什麼時候該放棄？訓練 LLM 停止無效推理 (Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning)
-- [2026-08-14](./daily/2026-08-14.md) — GLM-5.3：前沿編碼與新興資安能力再往前推 (GLM-5.3: Frontier coding with emergent cyber capabilities)
+- [2026-08-14](./archives/2026-08-page-1.md) — GLM-5.3：前沿編碼與新興資安能力再往前推 (GLM-5.3: Frontier coding with emergent cyber capabilities)
 - [2026-08-12](./daily/2026-08-12.md) — 人本代理 AI：具身代理的新範式 (ComBodied Agents: a New Paradigm of Human-Centric Agentic AI)
 - [2026-08-11](./daily/2026-08-11.md) — SWE-Bench ProMax：更大規模、多語系的程式重構評測 (SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring)
 - [2026-08-10](./daily/2026-08-10.md) — 不只是擴大環境數量：更有效的多模態 agent 訓練分布設計 (Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning)
