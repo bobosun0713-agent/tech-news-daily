@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [靜態 SSR 也能做動態公告：避免 CLS 的個人化槽位設計 (How to serve dynamic user announcements with static SSR performance)](./frontend/daily/2026-08-25.md) |
-| ⚙️ 後端 | [BMC 漏洞讓千台伺服器暴露於硬體級入侵風險 (BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise)](./backend/daily/2026-08-25.md) |
-| 🤖 AI | [Apodex 1.1：把 agentic intelligence 拉進可驗證長任務 (Apodex 1.1: Scaling Agentic Intelligence for Complex Work)](./ai/daily/2026-08-25.md) |
+| 🎨 前端 | [300 美元月費的 onboarding widget 正在拖垮你的 Core Web Vitals (Why your $300/mo onboarding widget is destroying your Core Web Vitals)](./frontend/daily/2026-08-26.md) |
+| ⚙️ 後端 | [AWS 宣布收購 DuckDB，讓嵌入式資料庫更靠近雲端資料栈 (AWS Acquires DuckDB)](./backend/daily/2026-08-26.md) |
+| 🤖 AI | [WeChat 多模態嵌入技術報告：WeMM-Embedding (WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report)](./ai/daily/2026-08-26.md) |
 
 ---
 
