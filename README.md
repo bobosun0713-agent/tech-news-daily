@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [300 美元月費的 onboarding widget 正在拖垮你的 Core Web Vitals (Why your $300/mo onboarding widget is destroying your Core Web Vitals)](./frontend/daily/2026-08-26.md) |
-| ⚙️ 後端 | [AWS 宣布收購 DuckDB，讓嵌入式資料庫更靠近雲端資料栈 (AWS Acquires DuckDB)](./backend/daily/2026-08-26.md) |
-| 🤖 AI | [WeChat 多模態嵌入技術報告：WeMM-Embedding (WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report)](./ai/daily/2026-08-26.md) |
+| 🎨 前端 | [高轉換率的站內公告也能不犧牲 INP 與 LCP (How to build high-converting in-app announcements without sacrificing INP & LCP)](./frontend/daily/2026-08-27.md) |
+| ⚙️ 後端 | [深入 Spring 的 `@Transactional` 代理與 self-invocation 陷阱 (`@Transactional` under the hood (proxy) + self-invocation gotcha)](./backend/daily/2026-08-27.md) |
+| 🤖 AI | [VoiceMem：即時互動用的流式雙腦記憶 (VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction)](./ai/daily/2026-08-27.md) |
 
 ---
 
