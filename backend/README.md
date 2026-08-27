@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-27](./daily/2026-08-27.md) — 深入 Spring 的 `@Transactional` 代理與 self-invocation 陷阱 (`@Transactional` under the hood (proxy) + self-invocation gotcha)
 - [2026-08-26](./daily/2026-08-26.md) — AWS 宣布收購 DuckDB，讓嵌入式資料庫更靠近雲端資料栈 (AWS Acquires DuckDB)
 - [2026-08-25](./daily/2026-08-25.md) — BMC 漏洞讓千台伺服器暴露於硬體級入侵風險 (BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise)
 - [2026-08-24](./daily/2026-08-24.md) — 建對平台工程：先對齊組織真正需要的能力，再談平台擴張 (Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs)
 - [2026-08-23](./daily/2026-08-23.md) — 5 微秒內完成 JIT 編譯？ (JIT Compiling Code in 5μs)
 - [2026-08-22](./daily/2026-08-22.md) — 不超賣的 API 端點：200 張票與百萬點擊的守門設計 (Millions of Clicks, 200 Tickets: Building an Endpoint That Cannot Oversell)
 - [2026-08-21](./daily/2026-08-21.md) — API 速率限制該把 counter 放在 Redis、Postgres 還是 Edge？ (Rate Limiting Your Own API: Should the Counter Live in Redis, Postgres, or at the Edge?)
-- [2026-08-20](./daily/2026-08-20.md) — Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-20](./archives/2026-08-page-1.md) — Harper 5.2：反對多系統堆疊的單一 runtime 取向 (Harper Argues Against the Multi-System Stack and Releases 5.2)
 - [2026-08-18](./archives/2026-08-page-1.md) — GitHub 將堆疊式 Pull Request 帶進公開預覽 (GitHub Brings Stacked Pull Requests to Public Preview)
 - [2026-08-17](./archives/2026-08-page-1.md) — Cloudflare 把 CI Pipeline 變成 TypeScript 工作流 (Cloudflare Turns CI Pipelines into TypeScript Workflows)
 - [2026-08-16](./archives/2026-08-page-1.md) — AWS 開源 Dogwood：用 Cedar 管制 agent 工具呼叫序列 (AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls)
