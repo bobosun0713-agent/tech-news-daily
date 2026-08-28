@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-28](./daily/2026-08-28.md) — 可驗證的遊戲開發如何成為世界模型的資料引擎 (Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models)
 - [2026-08-27](./daily/2026-08-27.md) — VoiceMem：即時互動用的流式雙腦記憶 (VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction)
 - [2026-08-26](./daily/2026-08-26.md) — WeChat 多模態嵌入技術報告：WeMM-Embedding (WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report)
 - [2026-08-25](./daily/2026-08-25.md) — Apodex 1.1：把 agentic intelligence 拉進可驗證長任務 (Apodex 1.1: Scaling Agentic Intelligence for Complex Work)
 - [2026-08-24](./daily/2026-08-24.md) — 從單一 agent 走向系統級智能：Graph Engineering in the Era of LLM Agents (Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence)
 - [2026-08-23](./daily/2026-08-23.md) — EnvHarness：讓靜態世界變成 agent 學習場 (EnvHarness: Awakening Static Worlds for Agent Learning)
 - [2026-08-22](./daily/2026-08-22.md) — 4DAnyone：從單目影片生成可重建的 4D 人物 (4DAnyone: Create Anyone in 4D from a Casual Monocular Video)
-- [2026-08-21](./daily/2026-08-21.md) — EnvHarness：讓靜態世界變成 agent 訓練場 (EnvHarness: Awakening Static Worlds for Agent Learning)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -24,6 +24,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 - [2026-08-20](./archives/2026-08-page-1.md) — Zetta ζ：閉環具身 Harness，讓實體智慧可自我演化 (Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence)
+- [2026-08-21](./daily/2026-08-21.md) — EnvHarness：讓靜態世界變成 agent 訓練場 (EnvHarness: Awakening Static Worlds for Agent Learning)
 - [2026-08-18](./archives/2026-08-page-1.md) — 可視世界評估再進一步：HarnessEval-W 讓 agent 自動評測視覺世界 (HarnessEval-W: Agentifying the Evaluation of Visual Worlds)
 - [2026-08-17](./archives/2026-08-page-1.md) — 真的能擋住 AI 生成影片攻擊嗎？危機事件偵測的系統化評估 (Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination)
 - [2026-08-16](./archives/2026-08-page-1.md) — 多代理系統正在遇到什麼問題？Anthropic 的觀察整理 (Patterns and problems in emerging multi-agent systems)
