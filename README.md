@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [高轉換率的站內公告也能不犧牲 INP 與 LCP (How to build high-converting in-app announcements without sacrificing INP & LCP)](./frontend/daily/2026-08-27.md) |
-| ⚙️ 後端 | [深入 Spring 的 `@Transactional` 代理與 self-invocation 陷阱 (`@Transactional` under the hood (proxy) + self-invocation gotcha)](./backend/daily/2026-08-27.md) |
-| 🤖 AI | [VoiceMem：即時互動用的流式雙腦記憶 (VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction)](./ai/daily/2026-08-27.md) |
+| 🎨 前端 | [AST 解析驅動的跨框架遷移自動化 (Under the Hood: How AST Analysis Automates Complex Framework Migrations)](./frontend/daily/2026-08-28.md) |
+| ⚙️ 後端 | [Next.js 與 Node.js 的邊界到底該畫在哪裡？ (Next.js + Node.js: Where Do You Draw the Line?)](./backend/daily/2026-08-28.md) |
+| 🤖 AI | [可驗證的遊戲開發如何成為世界模型的資料引擎 (Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models)](./ai/daily/2026-08-28.md) |
 
 ---
 
