@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [AST 解析驅動的跨框架遷移自動化 (Under the Hood: How AST Analysis Automates Complex Framework Migrations)](./frontend/daily/2026-08-28.md) |
-| ⚙️ 後端 | [Next.js 與 Node.js 的邊界到底該畫在哪裡？ (Next.js + Node.js: Where Do You Draw the Line?)](./backend/daily/2026-08-28.md) |
-| 🤖 AI | [可驗證的遊戲開發如何成為世界模型的資料引擎 (Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models)](./ai/daily/2026-08-28.md) |
+| 🎨 前端 | [從 Vite 遷移到 Next.js 的驗證方案：Supabase、Clerk 與 Auth.js 模式 (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)](./frontend/daily/2026-08-29.md) |
+| ⚙️ 後端 | [以索引模型打造超高速 Rate Limiter (The Index Awakens: Building a Blazing‑Fast Rate Limiter)](./backend/daily/2026-08-29.md) |
+| 🤖 AI | [Gemini Omni 1.1 Flash：支援 40 秒場景延伸與 4K 放大 (Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling)](./ai/daily/2026-08-29.md) |
 
 ---
 
