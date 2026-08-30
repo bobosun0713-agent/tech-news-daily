@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [從 Vite 遷移到 Next.js 的驗證方案：Supabase、Clerk 與 Auth.js 模式 (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)](./frontend/daily/2026-08-29.md) |
-| ⚙️ 後端 | [以索引模型打造超高速 Rate Limiter (The Index Awakens: Building a Blazing‑Fast Rate Limiter)](./backend/daily/2026-08-29.md) |
-| 🤖 AI | [Gemini Omni 1.1 Flash：支援 40 秒場景延伸與 4K 放大 (Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling)](./ai/daily/2026-08-29.md) |
+| 🎨 前端 | [測試遷移後的 Vitest 設定：讓 Next.js 測試真正跑得起來 (Testing After Migration: Adapting Your Vitest Setup to Work With Next.js)](./frontend/daily/2026-08-30.md) |
+| ⚙️ 後端 | [AWS 開源 Kiro Crew：非同步 coding agents 的協作編排 (AWS Open Sources Kiro Crew for Asynchronous Coding Agents)](./backend/daily/2026-08-30.md) |
+| 🤖 AI | [Anthropic 公開 MHS 研究預覽：讓 AI agent 更安全地操作實體裝置 (Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices)](./ai/daily/2026-08-30.md) |
 
 ---
 
