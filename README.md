@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [測試遷移後的 Vitest 設定：讓 Next.js 測試真正跑得起來 (Testing After Migration: Adapting Your Vitest Setup to Work With Next.js)](./frontend/daily/2026-08-30.md) |
-| ⚙️ 後端 | [AWS 開源 Kiro Crew：非同步 coding agents 的協作編排 (AWS Open Sources Kiro Crew for Asynchronous Coding Agents)](./backend/daily/2026-08-30.md) |
-| 🤖 AI | [Anthropic 公開 MHS 研究預覽：讓 AI agent 更安全地操作實體裝置 (Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices)](./ai/daily/2026-08-30.md) |
+| 🎨 前端 | [從 React Router 轉進 Next.js App Router：ViteToNext.AI 的自動遷移做法 (React Router Next.js App Router: How ViteToNext.AI Handles the Conversion Automatically)](./frontend/daily/2026-08-31.md) |
+| ⚙️ 後端 | [JWT Refresh Token 旋轉為何需要 token family？(Why JWT Refresh Token Rotation Fails Without a Token Family)](./backend/daily/2026-08-31.md) |
+| 🤖 AI | [LoopArena：把模型當作迴圈控制器來評測 (LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering)](./ai/daily/2026-08-31.md) |
 
 ---
 

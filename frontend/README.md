@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-08-31](./daily/2026-08-31.md) — 從 React Router 轉進 Next.js App Router：ViteToNext.AI 的自動遷移做法 (React Router Next.js App Router: How ViteToNext.AI Handles the Conversion Automatically)
 - [2026-08-30](./daily/2026-08-30.md) — 測試遷移後的 Vitest 設定：讓 Next.js 測試真正跑得起來 (Testing After Migration: Adapting Your Vitest Setup to Work With Next.js)
 - [2026-08-29](./daily/2026-08-29.md) — 從 Vite 遷移到 Next.js 的驗證方案：Supabase、Clerk 與 Auth.js 模式 (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)
 - [2026-08-28](./daily/2026-08-28.md) — AST 解析驅動的跨框架遷移自動化 (Under the Hood: How AST Analysis Automates Complex Framework Migrations)
 - [2026-08-27](./daily/2026-08-27.md) — 高轉換率的站內公告也能不犧牲 INP 與 LCP (How to build high-converting in-app announcements without sacrificing INP & LCP)
 - [2026-08-26](./daily/2026-08-26.md) — 300 美元月費的 onboarding widget 正在拖垮你的 Core Web Vitals (Why your $300/mo onboarding widget is destroying your Core Web Vitals)
 - [2026-08-25](./daily/2026-08-25.md) — 靜態 SSR 也能做動態公告：避免 CLS 的個人化槽位設計 (How to serve dynamic user announcements with static SSR performance)
-- [2026-08-24](./daily/2026-08-24.md) — 你的 Next.js App 可能正在外洩秘密：先檢查 Client Bundle (Your Next.js App Might Be Leaking Secrets Right Now. Check Your Client Bundle.)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-24](../daily/2026-08-24.md) — 你的 Next.js App 可能正在外洩秘密：先檢查 Client Bundle (Your Next.js App Might Be Leaking Secrets Right Now. Check Your Client Bundle.)
 - [2026-08-23](./archives/2026-08-page-1.md) — 別再硬編碼 Banner 彈窗：Next.js 代碼中的公告槽位設計 (Stop hardcoding <Banner /> modals in your Next.js codebase)
 - [2026-08-22](./archives/2026-08-page-1.md) — 60fps 的圖形型 React 應用：把渲染卡頓壓到最低 (Keeping a graphics-heavy React app at a smooth 60fps)
 - [2026-08-21](./daily/2026-08-21.md) — Next.js App Router 動態公告槽位：避免 hydration 失配 (Zero Hydration Mismatch: Architecting dynamic announcement slots in Next.js App Router)
