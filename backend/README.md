@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-01](./daily/2026-09-01.md) — worker 在副作用後當機，要不要重跑？ (Your Worker Crashed After the Side Effect. Should It Run Again?)
 - [2026-08-31](./daily/2026-08-31.md) — JWT Refresh Token 旋轉為何需要 token family？(Why JWT Refresh Token Rotation Fails Without a Token Family)
 - [2026-08-30](./daily/2026-08-30.md) — AWS 開源 Kiro Crew：非同步 coding agents 的協作編排 (AWS Open Sources Kiro Crew for Asynchronous Coding Agents)
 - [2026-08-29](./daily/2026-08-29.md) — 以索引模型打造超高速 Rate Limiter (The Index Awakens: Building a Blazing‑Fast Rate Limiter)
 - [2026-08-28](./daily/2026-08-28.md) — Next.js 與 Node.js 的邊界到底該畫在哪裡？ (Next.js + Node.js: Where Do You Draw the Line?)
 - [2026-08-27](./daily/2026-08-27.md) — 深入 Spring 的 `@Transactional` 代理與 self-invocation 陷阱 (`@Transactional` under the hood (proxy) + self-invocation gotcha)
 - [2026-08-26](./daily/2026-08-26.md) — AWS 宣布收購 DuckDB，讓嵌入式資料庫更靠近雲端資料栈 (AWS Acquires DuckDB)
-- [2026-08-25](./daily/2026-08-25.md) — BMC 漏洞讓千台伺服器暴露於硬體級入侵風險 (BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-25](./archives/2026-08-page-1.md) — BMC 漏洞讓千台伺服器暴露於硬體級入侵風險 (BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise)
 - [2026-08-24](../daily/2026-08-24.md) — 建對平台工程：先對齊組織真正需要的能力，再談平台擴張 (Article: Rightsizing Platform Engineering: Building the Platform Your Organization Actually Needs)
 - [2026-08-23](./archives/2026-08-page-1.md) — 5 微秒內完成 JIT 編譯？ (JIT Compiling Code in 5μs)
 - [2026-08-22](./archives/2026-08-page-1.md) — 不超賣的 API 端點：200 張票與百萬點擊的守門設計 (Millions of Clicks, 200 Tickets: Building an Endpoint That Cannot Oversell)
