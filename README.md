@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [從 React Router 轉進 Next.js App Router：ViteToNext.AI 的自動遷移做法 (React Router Next.js App Router: How ViteToNext.AI Handles the Conversion Automatically)](./frontend/daily/2026-08-31.md) |
-| ⚙️ 後端 | [JWT Refresh Token 旋轉為何需要 token family？(Why JWT Refresh Token Rotation Fails Without a Token Family)](./backend/daily/2026-08-31.md) |
-| 🤖 AI | [LoopArena：把模型當作迴圈控制器來評測 (LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering)](./ai/daily/2026-08-31.md) |
+| 🎨 前端 | [從 Vite 轉向 Next.js：這次遷移對使用者代表什麼？ (Why I Migrated My SaaS from Vite to Next.js — And What It Meant for My Users)](./frontend/daily/2026-09-01.md) |
+| ⚙️ 後端 | [worker 在副作用後當機，要不要重跑？ (Your Worker Crashed After the Side Effect. Should It Run Again?)](./backend/daily/2026-09-01.md) |
+| 🤖 AI | [DreamX-Creator：原生音訊-影片生成走向 2K 解析度 (DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution)](./ai/daily/2026-09-01.md) |
 
 ---
 
