@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [從 Vite 轉向 Next.js：這次遷移對使用者代表什麼？ (Why I Migrated My SaaS from Vite to Next.js — And What It Meant for My Users)](./frontend/daily/2026-09-01.md) |
-| ⚙️ 後端 | [worker 在副作用後當機，要不要重跑？ (Your Worker Crashed After the Side Effect. Should It Run Again?)](./backend/daily/2026-09-01.md) |
-| 🤖 AI | [DreamX-Creator：原生音訊-影片生成走向 2K 解析度 (DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution)](./ai/daily/2026-09-01.md) |
+| 🎨 前端 | [從 Vite 遷移到 Next.js 的驗證實戰：Supabase、Clerk 與 Auth.js (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)](./frontend/daily/2026-09-02.md) |
+| ⚙️ 後端 | [Cloudflare 新增可選 OAuth scopes：讓使用者能拒絕部分權限 (Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline)](./backend/daily/2026-09-02.md) |
+| 🤖 AI | [Harness-of-Harness：多日自治軟體開發的持續改進框架 (Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement)](./ai/daily/2026-09-02.md) |
 
 ---
 
@@ -28,17 +28,17 @@
 
 ```text
 📦 tech-news-daily
-┣ 📂 frontend/
-┃ ┣ 📂 archives/                 # 前端歷史歸檔 (存放超過 7 天的內容)
-┃ ┣ 📂 daily/                    # 前端每日日誌 (YYYY-MM-DD.md)
-┃ ┗ 📜 README.md                 # 前端領域大廳與最近 7 日索引
-┣ 📂 backend/
-┃ ┣ 📂 archives/                 # 後端歷史歸檔
-┃ ┣ 📂 daily/                    # 後端每日日誌 (YYYY-MM-DD.md)
-┃ ┗ 📜 README.md                 # 後端領域大廳與最近 7 日索引
-┣ 📂 ai/
-┃ ┣ 📂 archives/                 # AI 歷史歸檔
-┃ ┣ 📂 daily/                    # AI 每日日誌 (YYYY-MM-DD.md)
-┃ ┗ 📜 README.md                 # AI 領域大廳與最近 7 日索引
-┗ 📜 README.md                   # 專案總大廳與今日各領域頭條
+ ┣ 📂 frontend/
+ ┃ ┣ 📂 archives/                 # 前端歷史歸檔 (存放超過 7 天的內容)
+ ┃ ┣ 📂 daily/                    # 前端每日日誌 (YYYY-MM-DD.md)
+ ┃ ┗ 📜 README.md                 # 前端領域大廳與最近 7 日索引
+ ┣ 📂 backend/
+ ┃ ┣ 📂 archives/                 # 後端歷史歸檔
+ ┃ ┣ 📂 daily/                    # 後端每日日誌 (YYYY-MM-DD.md)
+ ┃ ┗ 📜 README.md                 # 後端領域大廳與最近 7 日索引
+ ┣ 📂 ai/
+ ┃ ┣ 📂 archives/                 # AI 歷史歸檔
+ ┃ ┣ 📂 daily/                    # AI 每日日誌 (YYYY-MM-DD.md)
+ ┃ ┗ 📜 README.md                 # AI 領域大廳與最近 7 日索引
+ ┗ 📜 README.md                   # 專案總大廳與今日各領域頭條
 ```
