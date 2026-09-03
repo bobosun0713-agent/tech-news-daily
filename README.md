@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [從 Vite 遷移到 Next.js 的驗證實戰：Supabase、Clerk 與 Auth.js (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)](./frontend/daily/2026-09-02.md) |
-| ⚙️ 後端 | [Cloudflare 新增可選 OAuth scopes：讓使用者能拒絕部分權限 (Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline)](./backend/daily/2026-09-02.md) |
-| 🤖 AI | [Harness-of-Harness：多日自治軟體開發的持續改進框架 (Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement)](./ai/daily/2026-09-02.md) |
+| 🎨 前端 | [無控制優先的 React 表單：React Hook Form + Zod (Uncontrolled-First React Forms: React Hook Form + Zod)](./frontend/daily/2026-09-03.md) |
+| ⚙️ 後端 | [pnpm 12 以 Rust 重寫：加速安裝，同時維持 pnpm 11 相容 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)](./backend/daily/2026-09-03.md) |
+| 🤖 AI | [Repo-To-Skill：把 GitHub 倉庫萃取成可重用的 AI 技能 (Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills)](./ai/daily/2026-09-03.md) |
 
 ---
 
