@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-03](./daily/2026-09-03.md) — 無控制優先的 React 表單：React Hook Form + Zod (Uncontrolled-First React Forms: React Hook Form + Zod)
 - [2026-09-02](./daily/2026-09-02.md) — 從 Vite 遷移到 Next.js 的驗證實戰：Supabase、Clerk 與 Auth.js (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)
 - [2026-09-01](./daily/2026-09-01.md) — 從 Vite 轉向 Next.js：這次遷移對使用者代表什麼？ (Why I Migrated My SaaS from Vite to Next.js — And What It Meant for My Users)
 - [2026-08-31](./daily/2026-08-31.md) — 從 React Router 轉進 Next.js App Router：ViteToNext.AI 的自動遷移做法 (React Router Next.js App Router: How ViteToNext.AI Handles the Conversion Automatically)
 - [2026-08-30](./daily/2026-08-30.md) — 測試遷移後的 Vitest 設定：讓 Next.js 測試真正跑得起來 (Testing After Migration: Adapting Your Vitest Setup to Work With Next.js)
 - [2026-08-29](./daily/2026-08-29.md) — 從 Vite 遷移到 Next.js 的驗證方案：Supabase、Clerk 與 Auth.js 模式 (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)
 - [2026-08-28](./daily/2026-08-28.md) — AST 解析驅動的跨框架遷移自動化 (Under the Hood: How AST Analysis Automates Complex Framework Migrations)
-- [2026-08-27](./daily/2026-08-27.md) — 高轉換率的站內公告也能不犧牲 INP 與 LCP (How to build high-converting in-app announcements without sacrificing INP & LCP)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-27](./archives/2026-08-page-1.md) — 高轉換率的站內公告也能不犧牲 INP 與 LCP (How to build high-converting in-app announcements without sacrificing INP & LCP)
 - [2026-08-26](./archives/2026-08-page-1.md) — 300 美元月費的 onboarding widget 正在拖垮你的 Core Web Vitals (Why your $300/mo onboarding widget is destroying your Core Web Vitals)
 - [2026-08-25](./archives/2026-08-page-1.md) — 靜態 SSR 也能做動態公告：避免 CLS 的個人化槽位設計 (How to serve dynamic user announcements with static SSR performance)
 - [2026-08-24](../daily/2026-08-24.md) — 你的 Next.js App 可能正在外洩秘密：先檢查 Client Bundle (Your Next.js App Might Be Leaking Secrets Right Now. Check Your Client Bundle.)
