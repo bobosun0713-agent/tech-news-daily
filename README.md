@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [無控制優先的 React 表單：React Hook Form + Zod (Uncontrolled-First React Forms: React Hook Form + Zod)](./frontend/daily/2026-09-03.md) |
-| ⚙️ 後端 | [pnpm 12 以 Rust 重寫：加速安裝，同時維持 pnpm 11 相容 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)](./backend/daily/2026-09-03.md) |
-| 🤖 AI | [Repo-To-Skill：把 GitHub 倉庫萃取成可重用的 AI 技能 (Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills)](./ai/daily/2026-09-03.md) |
+| 🎨 前端 | [Vue 與 React：真正做出產品後，開發者最先注意到的差異 (Vue vs React: The Things Developers Notice After Building Real Applications)](./frontend/daily/2026-09-04.md) |
+| ⚙️ 後端 | [Airbnb 以 Server-Driven Architecture 將驗證程式碼減少 60% (Airbnb Cuts Authentication Code by 60% with Server Driven Architecture)](./backend/daily/2026-09-04.md) |
+| 🤖 AI | [Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)](./ai/daily/2026-09-04.md) |
 
 ---
 

@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-04](./daily/2026-09-04.md) — Airbnb 以 Server-Driven Architecture 將驗證程式碼減少 60% (Airbnb Cuts Authentication Code by 60% with Server Driven Architecture)
 - [2026-09-03](./daily/2026-09-03.md) — pnpm 12 以 Rust 重寫：加速安裝，同時維持 pnpm 11 相容 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)
 - [2026-09-02](./daily/2026-09-02.md) — Cloudflare 新增可選 OAuth scopes：讓使用者能拒絕部分權限 (Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline)
 - [2026-09-01](./daily/2026-09-01.md) — worker 在副作用後當機，要不要重跑？ (Your Worker Crashed After the Side Effect. Should It Run Again?)
 - [2026-08-31](./daily/2026-08-31.md) — JWT Refresh Token 旋轉為何需要 token family？ (Why JWT Refresh Token Rotation Fails Without a Token Family)
 - [2026-08-30](./daily/2026-08-30.md) — AWS 開源 Kiro Crew：非同步 coding agents 的協作編排 (AWS Open Sources Kiro Crew for Asynchronous Coding Agents)
 - [2026-08-29](./daily/2026-08-29.md) — 以索引模型打造超高速 Rate Limiter (The Index Awakens: Building a Blazing‑Fast Rate Limiter)
-- [2026-08-28](./daily/2026-08-28.md) — Next.js 與 Node.js 的邊界到底該畫在哪裡？ (Next.js + Node.js: Where Do You Draw the Line?)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-28](./archives/2026-08-page-1.md) — Next.js 與 Node.js 的邊界到底該畫在哪裡？ (Next.js + Node.js: Where Do You Draw the Line?)
 - [2026-08-27](./archives/2026-08-page-1.md) — 深入 Spring 的 `@Transactional` 代理與 self-invocation 陷阱 (`@Transactional` under the hood (proxy) + self-invocation gotcha)
 - [2026-08-26](./archives/2026-08-page-1.md) — AWS 宣布收購 DuckDB，讓嵌入式資料庫更靠近雲端資料栈 (AWS Acquires DuckDB)
 - [2026-08-25](./archives/2026-08-page-1.md) — BMC 漏洞讓千台伺服器暴露於硬體級入侵風險 (BMC Vulnerabilities Put Thousands of Servers at Risk of Hardware-Level Compromise)
