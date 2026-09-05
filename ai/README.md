@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-05](./daily/2026-09-05.md) — Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)
 - [2026-09-04](./daily/2026-09-04.md) — Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)
 - [2026-09-03](./daily/2026-09-03.md) — Repo-To-Skill：把 GitHub 倉庫萃取成可重用的 AI 技能 (Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills)
 - [2026-09-02](./daily/2026-09-02.md) — Harness-of-Harness：多日自治軟體開發的持續改進框架 (Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement)
@@ -23,6 +24,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-29](../daily/2026-08-29.md) — Gemini Omni 1.1 Flash：支援 40 秒場景延伸與 4K 放大 (Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling)
 - [2026-08-28](./archives/2026-08-page-1.md) — 可驗證的遊戲開發如何成為世界模型的資料引擎 (Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models)
 - [2026-08-27](./archives/2026-08-page-1.md) — VoiceMem：即時互動用的流式雙腦記憶 (VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction)
 - [2026-08-26](./archives/2026-08-page-1.md) — WeChat 多模態嵌入技術報告：WeMM-Embedding (WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report)
