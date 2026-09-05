@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vue 與 React：真正做出產品後，開發者最先注意到的差異 (Vue vs React: The Things Developers Notice After Building Real Applications)](./frontend/daily/2026-09-04.md) |
-| ⚙️ 後端 | [Airbnb 以 Server-Driven Architecture 將驗證程式碼減少 60% (Airbnb Cuts Authentication Code by 60% with Server Driven Architecture)](./backend/daily/2026-09-04.md) |
-| 🤖 AI | [Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)](./ai/daily/2026-09-04.md) |
+| 🎨 前端 | [Vite 內建 Rust 版 React Compiler：比 Babel 快 17 倍 (The Rust React Compiler is now native in Vite — and it's 17 faster than Babel)](./frontend/daily/2026-09-05.md) |
+| ⚙️ 後端 | [Airbnb 用 Server-Driven Architecture 將驗證程式碼減少 60% (Airbnb Cuts Authentication Code by 60% with Server Driven Architecture)](./backend/daily/2026-09-05.md) |
+| 🤖 AI | [Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)](./ai/daily/2026-09-05.md) |
 
 ---
 
