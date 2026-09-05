@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-05](./daily/2026-09-05.md) — Vite 內建 Rust 版 React Compiler：比 Babel 快 17 倍 (The Rust React Compiler is now native in Vite — and it's 17 faster than Babel)
 - [2026-09-04](./daily/2026-09-04.md) — Vue 與 React：真正做出產品後，開發者最先注意到的差異 (Vue vs React: The Things Developers Notice After Building Real Applications)
 - [2026-09-03](./daily/2026-09-03.md) — 無控制優先的 React 表單：React Hook Form + Zod (Uncontrolled-First React Forms: React Hook Form + Zod)
 - [2026-09-02](./daily/2026-09-02.md) — 從 Vite 遷移到 Next.js 的驗證實戰：Supabase、Clerk 與 Auth.js (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)
 - [2026-09-01](./daily/2026-09-01.md) — 從 Vite 轉向 Next.js：這次遷移對使用者代表什麼？ (Why I Migrated My SaaS from Vite to Next.js — And What It Meant for My Users)
 - [2026-08-31](./daily/2026-08-31.md) — 從 React Router 轉進 Next.js App Router：ViteToNext.AI 的自動遷移做法 (React Router Next.js App Router: How ViteToNext.AI Handles the Conversion Automatically)
 - [2026-08-30](./daily/2026-08-30.md) — 測試遷移後的 Vitest 設定：讓 Next.js 測試真正跑得起來 (Testing After Migration: Adapting Your Vitest Setup to Work With Next.js)
-- [2026-08-29](./daily/2026-08-29.md) — 從 Vite 遷移到 Next.js 的驗證方案：Supabase、Clerk 與 Auth.js 模式 (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-08-29](../daily/2026-08-29.md) — 從 Vite 遷移到 Next.js 的驗證方案：Supabase、Clerk 與 Auth.js 模式 (Migrating Auth from Vite to Next.js: Supabase, Clerk, and Auth.js Patterns That Actually Work)
 - [2026-08-28](./archives/2026-08-page-1.md) — AST 解析驅動的跨框架遷移自動化 (Under the Hood: How AST Analysis Automates Complex Framework Migrations)
 - [2026-08-27](./archives/2026-08-page-1.md) — 高轉換率的站內公告也能不犧牲 INP 與 LCP (How to build high-converting in-app announcements without sacrificing INP & LCP)
 - [2026-08-26](./archives/2026-08-page-1.md) — 300 美元月費的 onboarding widget 正在拖垮你的 Core Web Vitals (Why your $300/mo onboarding widget is destroying your Core Web Vitals)
