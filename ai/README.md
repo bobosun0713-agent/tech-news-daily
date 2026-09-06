@@ -9,14 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-06](./daily/2026-09-06.md) — Compile by Training：把自然語言規格編譯成本地神經函式 (Compile by Training: Turning Natural-Language Specifications into Local Neural Functions)
 - [2026-09-05](./daily/2026-09-05.md) — Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)
 - [2026-09-04](./daily/2026-09-04.md) — Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)
 - [2026-09-03](./daily/2026-09-03.md) — Repo-To-Skill：把 GitHub 倉庫萃取成可重用的 AI 技能 (Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills)
 - [2026-09-02](./daily/2026-09-02.md) — Harness-of-Harness：多日自治軟體開發的持續改進框架 (Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement)
 - [2026-09-01](./daily/2026-09-01.md) — DreamX-Creator：原生音訊-影片生成走向 2K 解析度 (DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution)
 - [2026-08-31](./daily/2026-08-31.md) — LoopArena：把模型當作迴圈控制器來評測 (LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering)
-- [2026-08-30](./daily/2026-08-30.md) — Anthropic 公開 MHS 研究預覽：讓 AI agent 更安全地操作實體裝置 (Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices)
-- [2026-08-29](./daily/2026-08-29.md) — Gemini Omni 1.1 Flash：支援 40 秒場景延伸與 4K 放大 (Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -24,12 +23,13 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
-- [2026-08-29](../daily/2026-08-29.md) — Gemini Omni 1.1 Flash：支援 40 秒場景延伸與 4K 放大 (Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling)
+- [2026-08-30](./daily/2026-08-30.md) — Anthropic 公開 MHS 研究預覽：讓 AI agent 更安全地操作實體裝置 (Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices)
+- [2026-08-29](./daily/2026-08-29.md) — Gemini Omni 1.1 Flash：支援 40 秒場景延伸與 4K 放大 (Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling)
 - [2026-08-28](./archives/2026-08-page-1.md) — 可驗證的遊戲開發如何成為世界模型的資料引擎 (Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models)
 - [2026-08-27](./archives/2026-08-page-1.md) — VoiceMem：即時互動用的流式雙腦記憶 (VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction)
 - [2026-08-26](./archives/2026-08-page-1.md) — WeChat 多模態嵌入技術報告：WeMM-Embedding (WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report)
 - [2026-08-25](./archives/2026-08-page-1.md) — Apodex 1.1：把 agentic intelligence 拉進可驗證長任務 (Apodex 1.1: Scaling Agentic Intelligence for Complex Work)
-- [2026-08-24](../daily/2026-08-24.md) — 從單一 agent 走向系統級智能：Graph Engineering in the Era of LLM Agents (Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence)
+- [2026-08-24](./daily/2026-08-24.md) — 從單一 agent 走向系統級智能：Graph Engineering in the Era of LLM Agents (Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence)
 - [2026-08-23](./archives/2026-08-page-1.md) — EnvHarness：讓靜態世界變成 agent 訓練場 (EnvHarness: Awakening Static Worlds for Agent Learning)
 - [2026-08-22](./archives/2026-08-page-1.md) — 4DAnyone：從單目影片生成可重建的 4D 人物 (4DAnyone: Create Anyone in 4D from a Casual Monocular Video)
 - [2026-08-21](./daily/2026-08-21.md) — EnvHarness：讓靜態世界變成 agent 訓練場 (EnvHarness: Awakening Static Worlds for Agent Learning)
