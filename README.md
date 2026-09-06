@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 內建 Rust 版 React Compiler：比 Babel 快 17 倍 (The Rust React Compiler is now native in Vite — and it's 17 faster than Babel)](./frontend/daily/2026-09-05.md) |
-| ⚙️ 後端 | [Airbnb 用 Server-Driven Architecture 將驗證程式碼減少 60% (Airbnb Cuts Authentication Code by 60% with Server Driven Architecture)](./backend/daily/2026-09-05.md) |
-| 🤖 AI | [Terminal-Universe：把 agent 軌跡變成可擴充的終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)](./ai/daily/2026-09-05.md) |
+| 🎨 前端 | [多微前端儀表板先做 Module Federation，最後又整個拆掉的教訓 (We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out)](./frontend/daily/2026-09-06.md) |
+| ⚙️ 後端 | [Google Mantis：用 agent 化漏洞掃描框架降低誤報 (Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives)](./backend/daily/2026-09-06.md) |
+| 🤖 AI | [Compile by Training：把自然語言規格編譯成本地神經函式 (Compile by Training: Turning Natural-Language Specifications into Local Neural Functions)](./ai/daily/2026-09-06.md) |
 
 ---
 
