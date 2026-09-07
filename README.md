@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [多微前端儀表板先做 Module Federation，最後又整個拆掉的教訓 (We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out)](./frontend/daily/2026-09-06.md) |
-| ⚙️ 後端 | [Google Mantis：用 agent 化漏洞掃描框架降低誤報 (Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives)](./backend/daily/2026-09-06.md) |
-| 🤖 AI | [Compile by Training：把自然語言規格編譯成本地神經函式 (Compile by Training: Turning Natural-Language Specifications into Local Neural Functions)](./ai/daily/2026-09-06.md) |
+| 🎨 前端 | [Next.js 圖片最佳化別等到 `<Image />` 才開始 (Next.js Image Optimization Starts Before <Image />)](./frontend/daily/2026-09-07.md) |
+| ⚙️ 後端 | [從 AI Agent Demo 走到生產：自動化測試與評估 (Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation)](./backend/daily/2026-09-07.md) |
+| 🤖 AI | [博弈論式多代理協同反思 (Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems)](./ai/daily/2026-09-07.md) |
 
 ---
 
