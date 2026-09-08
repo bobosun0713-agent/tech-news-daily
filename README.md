@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Next.js 圖片最佳化別等到 `<Image />` 才開始 (Next.js Image Optimization Starts Before <Image />)](./frontend/daily/2026-09-07.md) |
-| ⚙️ 後端 | [從 AI Agent Demo 走到生產：自動化測試與評估 (Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation)](./backend/daily/2026-09-07.md) |
-| 🤖 AI | [博弈論式多代理協同反思 (Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems)](./ai/daily/2026-09-07.md) |
+| 🎨 前端 | [前端與伺服器動作之間的狀態同步：`setQueryData` 先補上 UI 與 Server Action 的落差 (The gap between your Server Action and your UI has a name: setQueryData)](./frontend/daily/2026-09-08.md) |
+| ⚙️ 後端 | [HashiCorp Packer 1.16 內建 SLSA 溯源驗證，強化機器映像供應鏈 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)](./backend/daily/2026-09-08.md) |
+| 🤖 AI | [離散擴散讓 LLM 生成加速又不失真 (Unlocking Lossless Speedups in LLMs via Discrete Diffusion)](./ai/daily/2026-09-08.md) |
 
 ---
 
