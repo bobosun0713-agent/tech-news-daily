@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-08](./daily/2026-09-08.md) — 離散擴散讓 LLM 生成加速又不失真 (Unlocking Lossless Speedups in LLMs via Discrete Diffusion)
 - [2026-09-07](./daily/2026-09-07.md) — 博弈論式多代理協同反思 (Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems)
 - [2026-09-06](./daily/2026-09-06.md) — Compile by Training：把自然語言規格編譯成本地神經函式 (Compile by Training: Turning Natural-Language Specifications into Local Neural Functions)
 - [2026-09-05](./daily/2026-09-05.md) — Terminal-Universe：把 agent 軌跡重建成可執行終端環境 (Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments)
 - [2026-09-04](./daily/2026-09-04.md) — RealSWE：以真實需求導向的組合式評測檢驗 coding agents (RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests)
 - [2026-09-03](./daily/2026-09-03.md) — DRACO：用動態 rubric 做長程 agent 訓練的精細 credit assignment (DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training)
 - [2026-09-02](./daily/2026-09-02.md) — DreamX-Creator：原生音訊-影片生成走向 2K 解析度 (DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution)
-- [2026-09-01](./daily/2026-09-01.md) — Qwen3.8-Next 架構設計：效率、評估與訓練穩定性 (On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-09-01](./archives/2026-09-page-1.md) — Qwen3.8-Next 架構設計：效率、評估與訓練穩定性 (On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability)
 - [2026-08-31](./archives/2026-08-page-1.md) — LoopArena：把模型當作迴圈控制器來評測 (LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering)
 - [2026-08-30](./archives/2026-08-page-1.md) — Anthropic 公開 MHS 研究預覽：讓 AI agent 更安全地操作實體裝置 (Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices)
 - [2026-08-29](./archives/2026-08-page-1.md) — Gemini Omni 1.1 Flash：支援 40 秒場景延伸與 4K 放大 (Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling)
