@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [前端與伺服器動作之間的狀態同步：`setQueryData` 先補上 UI 與 Server Action 的落差 (The gap between your Server Action and your UI has a name: setQueryData)](./frontend/daily/2026-09-08.md) |
-| ⚙️ 後端 | [HashiCorp Packer 1.16 內建 SLSA 溯源驗證，強化機器映像供應鏈 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)](./backend/daily/2026-09-08.md) |
-| 🤖 AI | [離散擴散讓 LLM 生成加速又不失真 (Unlocking Lossless Speedups in LLMs via Discrete Diffusion)](./ai/daily/2026-09-08.md) |
+| 🎨 前端 | [為什麼我選擇自建框架，而不是把三個 Next.js 應用硬接在一起 (Why I Built a Framework Instead of Duct-Taping Three Next.js Apps Together)](./frontend/daily/2026-09-09.md) |
+| ⚙️ 後端 | [HashiCorp Packer 1.16 原生支援 SLSA provenance，機器映像供應鏈更可驗證 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)](./backend/daily/2026-09-09.md) |
+| 🤖 AI | [NeoHorse-1：透過 agentic post-training 與 routing harness 追求可遞迴自我改進 (NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness)](./ai/daily/2026-09-09.md) |
 
 ---
 
