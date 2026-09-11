@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [為什麼我選擇自建框架，而不是把三個 Next.js 應用硬接在一起 (Why I Built a Framework Instead of Duct-Taping Three Next.js Apps Together)](./frontend/daily/2026-09-09.md) |
-| ⚙️ 後端 | [HashiCorp Packer 1.16 原生支援 SLSA provenance，機器映像供應鏈更可驗證 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)](./backend/daily/2026-09-09.md) |
-| 🤖 AI | [NeoHorse-1：透過 agentic post-training 與 routing harness 追求可遞迴自我改進 (NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness)](./ai/daily/2026-09-09.md) |
+| 🎨 前端 | [Next.js 16 的 Turbopack 變快 2.5 倍，但 bundler 只佔整體建置的 4% (Next.js 16's Turbopack is 2.5x faster, but the bundler is only 4% of your build)](./frontend/daily/2026-09-11.md) |
+| ⚙️ 後端 | [FastAPI：寄信任務的清楚契約 (FastAPI: contratos claros para tareas de email)](./backend/daily/2026-09-11.md) |
+| 🤖 AI | [NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)](./ai/daily/2026-09-11.md) |
 
 ---
 
