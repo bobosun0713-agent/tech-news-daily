@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Next.js 14：Server Components 與 React 的覺醒 (Next.js 14: Server Components and the React Awakens)](./frontend/daily/2026-09-12.md) |
-| ⚙️ 後端 | [FastAPI DI 引擎內幕：簽名反射、執行圖與 async exit stack (Under the Hood of FastAPI’s DI Engine: Signature Reflection, Execution Graphs, and Async Exit Stacks)](./backend/daily/2026-09-12.md) |
-| 🤖 AI | [NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)](./ai/daily/2026-09-12.md) |
+| 🎨 前端 | [前端公告零水合失配：動態插槽如何避免 CLS 與 SSR 震盪 (Zero Hydration Mismatch: Architecting dynamic announcement slots in Next.js App Router)](./frontend/daily/2026-09-13.md) |
+| ⚙️ 後端 | [Cloudflare 透過快取轉碼壓低儲存成本 (Cloudflare Tests Cache Transcoding to Reduce Storage Requirements)](./backend/daily/2026-09-13.md) |
+| 🤖 AI | [NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)](./ai/daily/2026-09-13.md) |
 
 ---
 
