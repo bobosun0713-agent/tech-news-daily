@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-14](./daily/2026-09-14.md) — DataFlex-RL：RLVR 資料政策評估平台 (DataFlex-RL: An Evaluation Platform for RLVR Data Policies)
 - [2026-09-13](./daily/2026-09-13.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-12](./daily/2026-09-12.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-11](./daily/2026-09-11.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-09](./daily/2026-09-09.md) — NeoHorse-1：透過 agentic post-training 與 routing harness 追求可遞迴自我改進 (NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness)
 - [2026-09-08](./daily/2026-09-08.md) — 離散擴散讓 LLM 生成加速又不失真 (Unlocking Lossless Speedups in LLMs via Discrete Diffusion)
 - [2026-09-07](./daily/2026-09-07.md) — 博弈論式多代理協同反思 (Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems)
-- [2026-09-06](./daily/2026-09-06.md) — Compile by Training：把自然語言規格編譯成本地神經函式 (Compile by Training: Turning Natural-Language Specifications into Local Neural Functions)
 <!-- DAILY_INDEX_END -->
 
 ---
