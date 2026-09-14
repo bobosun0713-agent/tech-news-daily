@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-14](./daily/2026-09-14.md) — Agoda 以 DragonflyDB 取代 72 分片 SQL Server 價格快取 (Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB)
 - [2026-09-13](./daily/2026-09-13.md) — Cloudflare 透過快取轉碼壓低儲存成本 (Cloudflare Tests Cache Transcoding to Reduce Storage Requirements)
 - [2026-09-12](./daily/2026-09-12.md) — FastAPI DI 引擎內幕：簽名反射、執行圖與 async exit stack (Under the Hood of FastAPI’s DI Engine: Signature Reflection, Execution Graphs, and Async Exit Stacks)
 - [2026-09-11](./daily/2026-09-11.md) — FastAPI：寄信任務的清楚契約 (FastAPI: contratos claros para tareas de email)
 - [2026-09-09](./daily/2026-09-09.md) — HashiCorp Packer 1.16 原生支援 SLSA provenance，機器映像供應鏈更可驗證 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)
 - [2026-09-08](./daily/2026-09-08.md) — HashiCorp Packer 1.16 內建 SLSA 溯源驗證，強化機器映像供應鏈 (HashiCorp Packer 1.16 Adds Native SLSA Provenance Generation and Verification for Machine Images)
 - [2026-09-07](./daily/2026-09-07.md) — 從 AI Agent Demo 走到生產：自動化測試與評估 (Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation)
-- [2026-09-06](./daily/2026-09-06.md) — Google Mantis：用 agent 化漏洞掃描框架降低誤報 (Google Mantis: An Agentic Vulnerability Scanning Harness for Reducing False Positives)
 <!-- DAILY_INDEX_END -->
 
 ---
