@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [前端公告零水合失配：動態插槽如何避免 CLS 與 SSR 震盪 (Zero Hydration Mismatch: Architecting dynamic announcement slots in Next.js App Router)](./frontend/daily/2026-09-13.md) |
-| ⚙️ 後端 | [Cloudflare 透過快取轉碼壓低儲存成本 (Cloudflare Tests Cache Transcoding to Reduce Storage Requirements)](./backend/daily/2026-09-13.md) |
-| 🤖 AI | [NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)](./ai/daily/2026-09-13.md) |
+| 🎨 前端 | [前端公告不是硬編碼，而是技術債 (Why hardcoded in-app announcements are technical debt in disguise)](./frontend/daily/2026-09-14.md) |
+| ⚙️ 後端 | [Agoda 以 DragonflyDB 取代 72 分片 SQL Server 價格快取 (Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB)](./backend/daily/2026-09-14.md) |
+| 🤖 AI | [DataFlex-RL：RLVR 資料政策評估平台 (DataFlex-RL: An Evaluation Platform for RLVR Data Policies)](./ai/daily/2026-09-14.md) |
 
 ---
 
