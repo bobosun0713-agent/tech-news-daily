@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-14](./daily/2026-09-14.md) — 前端公告不是硬編碼，而是技術債 (Why hardcoded in-app announcements are technical debt in disguise)
 - [2026-09-13](./daily/2026-09-13.md) — 前端公告零水合失配：動態插槽如何避免 CLS 與 SSR 震盪 (Zero Hydration Mismatch: Architecting dynamic announcement slots in Next.js App Router)
 - [2026-09-12](./daily/2026-09-12.md) — Next.js 14：Server Components 與 React 的覺醒 (Next.js 14: Server Components and the React Awakens)
 - [2026-09-11](./daily/2026-09-11.md) — Next.js 16 的 Turbopack 變快 2.5 倍，但 bundler 只佔整體建置的 4% (Next.js 16's Turbopack is 2.5x faster, but the bundler is only 4% of your build)
 - [2026-09-09](./daily/2026-09-09.md) — 為什麼我選擇自建框架，而不是把三個 Next.js 應用硬接在一起 (Why I Built a Framework Instead of Duct-Taping Three Next.js Apps Together)
 - [2026-09-08](./daily/2026-09-08.md) — 前端與伺服器動作之間的狀態同步：`setQueryData` 先補上 UI 與 Server Action 的落差 (The gap between your Server Action and your UI has a name: setQueryData)
 - [2026-09-07](./daily/2026-09-07.md) — Next.js 圖片最佳化別等到 `<Image />` 才開始 (Next.js Image Optimization Starts Before <Image />)
-- [2026-09-06](./daily/2026-09-06.md) — 多微前端儀表板先做 Module Federation，最後又整個拆掉的教訓 (We Built a 21-Microfrontend Dashboard with Module Federation, Then Ripped It All Out)
 <!-- DAILY_INDEX_END -->
 
 ---
