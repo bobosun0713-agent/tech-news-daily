@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [前端公告不是硬編碼，而是技術債 (Why hardcoded in-app announcements are technical debt in disguise)](./frontend/daily/2026-09-14.md) |
-| ⚙️ 後端 | [Agoda 以 DragonflyDB 取代 72 分片 SQL Server 價格快取 (Agoda Replaces 72-Shard SQL Server Price Cache with DragonflyDB)](./backend/daily/2026-09-14.md) |
-| 🤖 AI | [DataFlex-RL：RLVR 資料政策評估平台 (DataFlex-RL: An Evaluation Platform for RLVR Data Policies)](./ai/daily/2026-09-14.md) |
+| 🎨 前端 | [反應快也要可理解：React 效能不只看毫秒 (React: rendimiento que también se puede usar)](./frontend/daily/2026-09-15.md) |
+| ⚙️ 後端 | [Atlassian 透過 metrics、logs 與 traces 自動定位事故根因 (Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces)](./backend/daily/2026-09-15.md) |
+| 🤖 AI | [Atria Dawn：代理式超智能預覽模型，瞄準研究與工程工作流 (Atria Dawn: The Dawn of Agentic Superintelligence)](./ai/daily/2026-09-15.md) |
 
 ---
 
