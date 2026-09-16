@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-16](./daily/2026-09-16.md) — 從凍結 LLM 讀出原生技能路由訊號 (The Router Within: Eliciting Native Skill Routing from a Frozen LLM)
 - [2026-09-15](./daily/2026-09-15.md) — Atria Dawn：代理式超智能預覽模型，瞄準研究與工程工作流 (Atria Dawn: The Dawn of Agentic Superintelligence)
 - [2026-09-14](./daily/2026-09-14.md) — DataFlex-RL：RLVR 資料政策評估平台 (DataFlex-RL: An Evaluation Platform for RLVR Data Policies)
 - [2026-09-13](./daily/2026-09-13.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-12](./daily/2026-09-12.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-11](./daily/2026-09-11.md) — NCP-ArchPreview 技術報告：透過 Next Concept Prediction 邁向潛在空間語言模型 (NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction)
 - [2026-09-09](./daily/2026-09-09.md) — NeoHorse-1：透過 agentic post-training 與 routing harness 追求可遞迴自我改進 (NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness)
-- [2026-09-08](./daily/2026-09-08.md) — 離散擴散讓 LLM 生成加速又不失真 (Unlocking Lossless Speedups in LLMs via Discrete Diffusion)
 <!-- DAILY_INDEX_END -->
 
 ---
