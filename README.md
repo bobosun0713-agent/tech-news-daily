@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [反應快也要可理解：React 效能不只看毫秒 (React: rendimiento que también se puede usar)](./frontend/daily/2026-09-15.md) |
-| ⚙️ 後端 | [Atlassian 透過 metrics、logs 與 traces 自動定位事故根因 (Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces)](./backend/daily/2026-09-15.md) |
-| 🤖 AI | [Atria Dawn：代理式超智能預覽模型，瞄準研究與工程工作流 (Atria Dawn: The Dawn of Agentic Superintelligence)](./ai/daily/2026-09-15.md) |
+| 🎨 前端 | [我把 React SPA 預渲染成 SEO 友善頁面，卻忘了連結 (I prerendered my React SPA for SEO. I forgot the links.)](./frontend/daily/2026-09-16.md) |
+| ⚙️ 後端 | [Dropbox 讓 Riviera 內容處理平台支援 AI 工作負載 (Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads)](./backend/daily/2026-09-16.md) |
+| 🤖 AI | [從凍結 LLM 讀出原生技能路由訊號 (The Router Within: Eliciting Native Skill Routing from a Frozen LLM)](./ai/daily/2026-09-16.md) |
 
 ---
 
