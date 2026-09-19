@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [我把 React SPA 預渲染成 SEO 友善頁面，卻忘了連結 (I prerendered my React SPA for SEO. I forgot the links.)](./frontend/daily/2026-09-16.md) |
-| ⚙️ 後端 | [Dropbox 讓 Riviera 內容處理平台支援 AI 工作負載 (Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads)](./backend/daily/2026-09-16.md) |
-| 🤖 AI | [從凍結 LLM 讀出原生技能路由訊號 (The Router Within: Eliciting Native Skill Routing from a Frozen LLM)](./ai/daily/2026-09-16.md) |
+| 🎨 前端 | [React WebSocket 效能：用 RAF 緩衝把串流更新壓回幀率內 (React WebSocket Performance: RAF Buffering Pattern)](./frontend/daily/2026-09-19.md) |
+| ⚙️ 後端 | [LinkedIn 的 AI 代理上下文層：用 MCP 打造組織級 Context Engineering (Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP)](./backend/daily/2026-09-19.md) |
+| 🤖 AI | [DeepSeek-V4.1-Flash：用 KV cache 壓縮挑戰百萬 token 上下文 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)](./ai/daily/2026-09-19.md) |
 
 ---
 
