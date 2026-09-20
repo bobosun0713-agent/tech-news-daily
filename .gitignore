@@ -11,6 +11,8 @@ CLAUDE.md
 # Node
 node_modules/
 npm-debug.log*
+docs/.vitepress/cache
+docs/.vitepress/dist
 
 # Python
 __pycache__/
