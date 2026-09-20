@@ -20,6 +20,7 @@ function getDailySidebar(domain: string) {
 }
 
 export default defineConfig({
+  base: '/tech-news-daily/',
   srcDir: "..",
   srcExclude: ["**/node_modules/**"],
   rewrites: {
