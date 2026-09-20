@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React WebSocket 效能：用 RAF 緩衝把串流更新壓回幀率內 (React WebSocket Performance: RAF Buffering Pattern)](./frontend/daily/2026-09-19.md) |
-| ⚙️ 後端 | [LinkedIn 的 AI 代理上下文層：用 MCP 打造組織級 Context Engineering (Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP)](./backend/daily/2026-09-19.md) |
-| 🤖 AI | [DeepSeek-V4.1-Flash：用 KV cache 壓縮挑戰百萬 token 上下文 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)](./ai/daily/2026-09-19.md) |
+| 🎨 前端 | [瀏覽器端 SVG 轉 PNG 為何在 production 常翻車：五個 Canvas 陷阱 (Why Client-Side SVG to PNG Conversion Fails in Production: 5 Canvas Traps)](./frontend/daily/2026-09-20.md) |
+| ⚙️ 後端 | [AWS Lambda 把 Serverless 推向長時間工作負載 (AWS Lambda Pushes Serverless Toward Long-Running Workloads)](./backend/daily/2026-09-20.md) |
+| 🤖 AI | [DeepSeek-V4.1-Flash：KV cache 壓縮再往前推一步 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)](./ai/daily/2026-09-20.md) |
 
 ---
 
