@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [瀏覽器端 SVG 轉 PNG 為何在 production 常翻車：五個 Canvas 陷阱 (Why Client-Side SVG to PNG Conversion Fails in Production: 5 Canvas Traps)](./frontend/daily/2026-09-20.md) |
-| ⚙️ 後端 | [AWS Lambda 把 Serverless 推向長時間工作負載 (AWS Lambda Pushes Serverless Toward Long-Running Workloads)](./backend/daily/2026-09-20.md) |
-| 🤖 AI | [DeepSeek-V4.1-Flash：KV cache 壓縮再往前推一步 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)](./ai/daily/2026-09-20.md) |
+| 🎨 前端 | [別把 Banner Modal 硬寫死：Next.js 前端的資料驅動公告槽位 (Stop hardcoding <Banner /> modals in your Next.js codebase)](./frontend/daily/2026-09-21.md) |
+| ⚙️ 後端 | [Cloudflare 推出 Agent Development Lifecycle：用 ADLC 取代傳統 SDLC (Cloudflare Introduces the Agent Development Lifecycle to Replace Traditional SDLC)](./backend/daily/2026-09-21.md) |
+| 🤖 AI | [以程式碼規模化合成可驗證技能：Agentic Intelligence 的 grounded skill 取得法 (Grounded Skill Synthesis from Code at Scale for Agentic Intelligence)](./ai/daily/2026-09-21.md) |
 
 ---
 
