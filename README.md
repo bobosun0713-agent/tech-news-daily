@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [別把 Banner Modal 硬寫死：Next.js 前端的資料驅動公告槽位 (Stop hardcoding <Banner /> modals in your Next.js codebase)](./frontend/daily/2026-09-21.md) |
-| ⚙️ 後端 | [Cloudflare 推出 Agent Development Lifecycle：用 ADLC 取代傳統 SDLC (Cloudflare Introduces the Agent Development Lifecycle to Replace Traditional SDLC)](./backend/daily/2026-09-21.md) |
-| 🤖 AI | [以程式碼規模化合成可驗證技能：Agentic Intelligence 的 grounded skill 取得法 (Grounded Skill Synthesis from Code at Scale for Agentic Intelligence)](./ai/daily/2026-09-21.md) |
+| 🎨 前端 | [Vite 遷移時的 `use client` 自動注入：何時有效、何時反而出錯 ('use client' Injection: Why ViteToNext.AI Adds It Automatically (And When It Gets It Wrong))](./frontend/daily/2026-09-22.md) |
+| ⚙️ 後端 | [Azure Service Bus：當 Event Grid 不夠用時的 Queue 與 Topic 取捨 (Azure Service Bus: Queues and Topics for When Event Grid Isn't Enough)](./backend/daily/2026-09-22.md) |
+| 🤖 AI | [RRSI：代理 harness 的正規化遞迴自我改進 (RRSI: Regularized Recursive Self-Improvement of Agent Harnesses)](./ai/daily/2026-09-22.md) |
 
 ---
 
