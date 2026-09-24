@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Vite 遷移時的 `use client` 自動注入：何時有效、何時反而出錯 ('use client' Injection: Why ViteToNext.AI Adds It Automatically (And When It Gets It Wrong))](./frontend/daily/2026-09-22.md) |
-| ⚙️ 後端 | [Azure Service Bus：當 Event Grid 不夠用時的 Queue 與 Topic 取捨 (Azure Service Bus: Queues and Topics for When Event Grid Isn't Enough)](./backend/daily/2026-09-22.md) |
-| 🤖 AI | [RRSI：代理 harness 的正規化遞迴自我改進 (RRSI: Regularized Recursive Self-Improvement of Agent Harnesses)](./ai/daily/2026-09-22.md) |
+| 🎨 前端 | [用 HTML + Tailwind CDN 做 5 個輕量著陸頁模板 (I built 5 lightweight landing page templates using only HTML & Tailwind CDN)](./frontend/daily/2026-09-24.md) |
+| ⚙️ 後端 | [結構化日誌：為什麼 print statement 只能撐一個服務 (Structured logging: why print statements do not scale past one service)](./backend/daily/2026-09-24.md) |
+| 🤖 AI | [Just-In-Time Memory：為 LLM Agent 動態整理任務記憶 (Just-In-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents)](./ai/daily/2026-09-24.md) |
 
 ---
 
