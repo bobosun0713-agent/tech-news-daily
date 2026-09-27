@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [把 RAG 引用直接標在 PDF 上：React bbox 高亮如何讓答案可追溯 (React PDF bbox Highlighting: Show RAG Citations on the Page)](./frontend/daily/2026-09-25.md) |
-| ⚙️ 後端 | [無狀態 MCP：AWS 伺服器部署不再綁 session affinity (Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments)](./backend/daily/2026-09-25.md) |
-| 🤖 AI | [世界模型的物件恆存訓練：讓模型記住消失後的物件 (Training Object Permanence in World Models)](./ai/daily/2026-09-25.md) |
+| 🎨 前端 | [前端公告不是硬編碼：把應用內通知從技術債拉回架構層 (Why hardcoded in-app announcements are technical debt in disguise)](./frontend/daily/2026-09-27.md) |
+| ⚙️ 後端 | [GKE Pod 快照讓模型載入延遲大降，也把複雜度轉到快照生命週期管理 (GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management)](./backend/daily/2026-09-27.md) |
+| 🤖 AI | [世界模型的物件恆存訓練：讓模型在消失後仍記得物件 (Training Object Permanence in World Models)](./ai/daily/2026-09-27.md) |
 
 ---
 
