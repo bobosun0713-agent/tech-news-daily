@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [前端公告不是硬編碼：把應用內通知從技術債拉回架構層 (Why hardcoded in-app announcements are technical debt in disguise)](./frontend/daily/2026-09-27.md) |
-| ⚙️ 後端 | [GKE Pod 快照讓模型載入延遲大降，也把複雜度轉到快照生命週期管理 (GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management)](./backend/daily/2026-09-27.md) |
-| 🤖 AI | [世界模型的物件恆存訓練：讓模型在消失後仍記得物件 (Training Object Permanence in World Models)](./ai/daily/2026-09-27.md) |
+| 🎨 前端 | [React 19.3 正式上線：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)](./frontend/daily/2026-09-28.md) |
+| ⚙️ 後端 | [Node.js 改成每年一版：Node 27 起統一 release 節奏 (Node.js Moves to One Major Release Per Year, Starting with Node 27)](./backend/daily/2026-09-28.md) |
+| 🤖 AI | [Exa Agent Ultra：子代理深度研究 API 把列表建構做到底 (Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building)](./ai/daily/2026-09-28.md) |
 
 ---
 
