@@ -9,13 +9,14 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-29](./daily/2026-09-29.md) — Holo4：面向通用 computer-use agent 的新系列模型 (Holo4: powering generalist computer-use agents)
 - [2026-09-28](./daily/2026-09-28.md) — Exa Agent Ultra：子代理深度研究 API 把列表建構做到底 (Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building)
 - [2026-09-27](./daily/2026-09-27.md) — 世界模型的物件恆存訓練：讓模型在消失後仍記得物件 (Training Object Permanence in World Models)
 - [2026-09-25](./daily/2026-09-25.md) — 世界模型的物件恆存訓練：讓模型記住消失後的物件 (Training Object Permanence in World Models)
 - [2026-09-24](./daily/2026-09-24.md) — Just-In-Time Memory：為 LLM Agent 動態整理任務記憶 (Just-In-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents)
 - [2026-09-22](./daily/2026-09-22.md) — RRSI：代理 harness 的正規化遞迴自我改進 (RRSI: Regularized Recursive Self-Improvement of Agent Harnesses)
 - [2026-09-21](./daily/2026-09-21.md) — 以程式碼規模化合成可驗證技能：Agentic Intelligence 的 grounded skill 取得法 (Grounded Skill Synthesis from Code at Scale for Agentic Intelligence)
-- [2026-09-20](./daily/2026-09-20.md) — DeepSeek-V4.1-Flash：KV cache 壓縮再往前推一步 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)
+
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -24,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 - [2026-09-19](./archives/2026-09-page-1.md) — DeepSeek-V4.1-Flash：用 KV cache 壓縮挑戰百萬 token 上下文 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)
+- [2026-09-20](./archives/2026-09-page-1.md) — DeepSeek-V4.1-Flash：KV cache 壓縮再往前推一步 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)
 - [2026-09-16](./archives/2026-09-page-1.md) — 科學研究代理 ScienceBuddy：讓互動式科學工作流能持續自我改進 (ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents)
 - [2026-09-15](./archives/2026-09-page-1.md) — Atria Dawn：代理式超智能預覽模型，瞄準研究與工程工作流 (Atria Dawn: The Dawn of Agentic Superintelligence)
 - [2026-09-14](./archives/2026-09-page-1.md) — AI 系統的下一步：讓記憶、評測與生成互相校準 (The Next Step for AI Systems: Aligning Memory, Evaluation, and Generation)
