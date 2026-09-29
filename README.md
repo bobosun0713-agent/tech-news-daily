@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 19.3 正式上線：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)](./frontend/daily/2026-09-28.md) |
-| ⚙️ 後端 | [Node.js 改成每年一版：Node 27 起統一 release 節奏 (Node.js Moves to One Major Release Per Year, Starting with Node 27)](./backend/daily/2026-09-28.md) |
-| 🤖 AI | [Exa Agent Ultra：子代理深度研究 API 把列表建構做到底 (Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building)](./ai/daily/2026-09-28.md) |
+| 🎨 前端 | [React 19.3 正式推出：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)](./frontend/daily/2026-09-29.md) |
+| ⚙️ 後端 | [Node.js 安全漏洞獎勵暫停：外部資金中止後，bounty 也跟著停擺 (Security Bug Bounty Program Paused Due to Loss of Funding)](./backend/daily/2026-09-29.md) |
+| 🤖 AI | [Holo4：面向通用 computer-use agent 的新系列模型 (Holo4: powering generalist computer-use agents)](./ai/daily/2026-09-29.md) |
 
 ---
 
