@@ -9,13 +9,14 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-29](./daily/2026-09-29.md) — React 19.3 正式推出：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)
 - [2026-09-28](./daily/2026-09-28.md) — React 19.3 正式上線：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)
 - [2026-09-27](./daily/2026-09-27.md) — 前端公告不是硬編碼：把應用內通知從技術債拉回架構層 (Why hardcoded in-app announcements are technical debt in disguise)
 - [2026-09-25](./daily/2026-09-25.md) — 把 RAG 引用直接標在 PDF 上：React bbox 高亮如何讓答案可追溯 (React PDF bbox Highlighting: Show RAG Citations on the Page)
 - [2026-09-24](./daily/2026-09-24.md) — 用 HTML + Tailwind CDN 做 5 個輕量著陸頁模板 (I built 5 lightweight landing page templates using only HTML & Tailwind CDN)
 - [2026-09-22](./daily/2026-09-22.md) — Vite 遷移時的 `use client` 自動注入：何時有效、何時反而出錯 ('use client' Injection: Why ViteToNext.AI Adds It Automatically (And When It Gets It Wrong))
 - [2026-09-21](./daily/2026-09-21.md) — 別把 Banner Modal 硬寫死：Next.js 前端的資料驅動公告槽位 (Stop hardcoding <Banner /> modals in your Next.js codebase)
-- [2026-09-20](./daily/2026-09-20.md) — 瀏覽器端 SVG 轉 PNG 為何在 production 常翻車：五個 Canvas 陷阱 (Why Client-Side SVG to PNG Conversion Fails in Production: 5 Canvas Traps)
+
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -24,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 - [2026-09-19](./archives/2026-09-page-1.md) — React WebSocket 效能：用 RAF 緩衝把串流更新壓回幀率內 (React WebSocket Performance: RAF Buffering Pattern)
+- [2026-09-20](./archives/2026-09-page-1.md) — 瀏覽器端 SVG 轉 PNG 為何在 production 常翻車：五個 Canvas 陷阱 (Why Client-Side SVG to PNG Conversion Fails in Production: 5 Canvas Traps)
 - [2026-09-16](./archives/2026-09-page-1.md) — 我把 React SPA 預渲染成 SEO 友善頁面，卻忘了連結 (I prerendered my React SPA for SEO. I forgot the links.)
 - [2026-09-15](./archives/2026-09-page-1.md) — 反應快也要可理解：React 效能不只看毫秒 (React: rendimiento que también se puede usar)
 - [2026-09-14](./archives/2026-09-page-1.md) — 前端公告不是硬編碼，而是技術債 (Why hardcoded in-app announcements are technical debt in disguise)
