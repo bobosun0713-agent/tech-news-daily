@@ -9,13 +9,14 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-09-29](./daily/2026-09-29.md) — Node.js 安全漏洞獎勵暫停：外部資金中止後，bounty 也跟著停擺 (Security Bug Bounty Program Paused Due to Loss of Funding)
 - [2026-09-28](./daily/2026-09-28.md) — Node.js 改成每年一版：Node 27 起統一 release 節奏 (Node.js Moves to One Major Release Per Year, Starting with Node 27)
 - [2026-09-27](./daily/2026-09-27.md) — GKE Pod 快照讓模型載入延遲大降，也把複雜度轉到快照生命週期管理 (GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management)
 - [2026-09-25](./daily/2026-09-25.md) — 無狀態 MCP：AWS 伺服器部署不再綁 session affinity (Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments)
 - [2026-09-24](./daily/2026-09-24.md) — 結構化日誌：為什麼 print statement 只能撐一個服務 (Structured logging: why print statements do not scale past one service)
 - [2026-09-22](./daily/2026-09-22.md) — Azure Service Bus：當 Event Grid 不夠用時的 Queue 與 Topic 取捨 (Azure Service Bus: Queues and Topics for When Event Grid Isn't Enough)
 - [2026-09-21](./daily/2026-09-21.md) — Cloudflare 推出 Agent Development Lifecycle：用 ADLC 取代傳統 SDLC (Cloudflare Introduces the Agent Development Lifecycle to Replace Traditional SDLC)
-- [2026-09-20](./daily/2026-09-20.md) — Redis 不只拿來快取：5 個實戰用途 (Redis beyond caching: 5 use cases you should know)
+
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -24,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 - [2026-09-19](./archives/2026-09-page-1.md) — LinkedIn 的 AI 代理上下文層：用 MCP 打造組織級 Context Engineering (Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP)
+- [2026-09-20](./archives/2026-09-page-1.md) — Redis 不只拿來快取：5 個實戰用途 (Redis beyond caching: 5 use cases you should know)
 - [2026-09-16](./archives/2026-09-page-1.md) — Dropbox 讓 Riviera 內容處理平台支援 AI 工作負載 (Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads)
 - [2026-09-15](./archives/2026-09-page-1.md) — Atlassian 透過 metrics、logs 與 traces 自動定位事故根因 (Atlassian Automates Root Cause Analysis by Correlating Metrics, Logs and Traces)
 - [2026-09-14](./archives/2026-09-page-1.md) — 後端 API 與觀測性：別讓失敗模式藏到 production (API and Observability: Don't Let Failure Modes Hide Until Production)
