@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 19.3 正式推出：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)](./frontend/daily/2026-09-29.md) |
-| ⚙️ 後端 | [Node.js 安全漏洞獎勵暫停：外部資金中止後，bounty 也跟著停擺 (Security Bug Bounty Program Paused Due to Loss of Funding)](./backend/daily/2026-09-29.md) |
-| 🤖 AI | [Holo4：面向通用 computer-use agent 的新系列模型 (Holo4: powering generalist computer-use agents)](./ai/daily/2026-09-29.md) |
+| 🎨 前端 | [Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)](./frontend/daily/2026-09-30.md) |
+| ⚙️ 後端 | [Node.js 26.9.0 釋出：Current 線持續修補與 crypto API 擴充 (Node.js 26.9.0 (Current))](./backend/daily/2026-09-30.md) |
+| 🤖 AI | [Google Research 開源 RRSI：讓 AI agents 改良自己的 harness 而不過擬合 (Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting)](./ai/daily/2026-09-30.md) |
 
 ---
 
