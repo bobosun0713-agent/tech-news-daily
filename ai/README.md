@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-10-01](./daily/2026-10-01.md) — SoL-Refiner：單步把低解析影片升成 4K (SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video)
 - [2026-09-30](./daily/2026-09-30.md) — Google Research 開源 RRSI：讓 AI agents 改良自己的 harness 而不過擬合 (Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting)
 - [2026-09-29](./daily/2026-09-29.md) — Holo4：面向通用 computer-use agent 的新系列模型 (Holo4: powering generalist computer-use agents)
 - [2026-09-28](./daily/2026-09-28.md) — Exa Agent Ultra：子代理深度研究 API 把列表建構做到底 (Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building)
 - [2026-09-27](./daily/2026-09-27.md) — 世界模型的物件恆存訓練：讓模型在消失後仍記得物件 (Training Object Permanence in World Models)
 - [2026-09-25](./daily/2026-09-25.md) — 世界模型的物件恆存訓練：讓模型記住消失後的物件 (Training Object Permanence in World Models)
 - [2026-09-24](./daily/2026-09-24.md) — Just-In-Time Memory：為 LLM Agent 動態整理任務記憶 (Just-In-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents)
-- [2026-09-22](./daily/2026-09-22.md) — RRSI：代理 harness 的正規化遞迴自我改進 (RRSI: Regularized Recursive Self-Improvement of Agent Harnesses)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-09-22](./archives/2026-09-page-1.md) — RRSI：代理 harness 的正規化遞迴自我改進 (RRSI: Regularized Recursive Self-Improvement of Agent Harnesses)
 - [2026-09-21](./archives/2026-09-page-1.md) — 開放式技能合成：把 GitHub 倉庫抽成可重用 AI 技能 (Grounded Skill Synthesis from Code at Scale for Agentic Intelligence)
 - [2026-09-20](./archives/2026-09-page-1.md) — DeepSeek-V4.1-Flash：KV cache 壓縮再往前推一步 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)
 - [2026-09-19](./archives/2026-09-page-1.md) — DeepSeek-V4.1-Flash：用 KV cache 壓縮挑戰百萬 token 上下文 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)
