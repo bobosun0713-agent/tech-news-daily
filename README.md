@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)](./frontend/daily/2026-09-30.md) |
-| ⚙️ 後端 | [Node.js 26.9.0 釋出：Current 線持續修補與 crypto API 擴充 (Node.js 26.9.0 (Current))](./backend/daily/2026-09-30.md) |
-| 🤖 AI | [Google Research 開源 RRSI：讓 AI agents 改良自己的 harness 而不過擬合 (Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting)](./ai/daily/2026-09-30.md) |
+| 🎨 前端 | [Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)](./frontend/daily/2026-10-01.md) |
+| ⚙️ 後端 | [pnpm 12 以 Rust 重寫：安裝更快但工作流幾乎不變 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)](./backend/daily/2026-10-01.md) |
+| 🤖 AI | [SoL-Refiner：單步把低解析影片升成 4K (SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video)](./ai/daily/2026-10-01.md) |
 
 ---
 
