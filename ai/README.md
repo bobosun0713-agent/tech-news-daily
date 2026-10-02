@@ -9,6 +9,7 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-10-02](./daily/2026-10-02.md) — Gemini 4 Argon：1M 輸出 token 專攻長篇 coding、知識工作與資安 (Gemini 4 Argon: our next era of frontier intelligence)
 - [2026-10-01](./daily/2026-10-01.md) — SoL-Refiner：單步把低解析影片升成 4K (SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video)
 - [2026-09-30](./daily/2026-09-30.md) — Google Research 開源 RRSI：讓 AI agents 改良自己的 harness 而不過擬合 (Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting)
 - [2026-09-29](./daily/2026-09-29.md) — Holo4：面向通用 computer-use agent 的新系列模型 (Holo4: powering generalist computer-use agents)
@@ -23,6 +24,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-09-24](./archives/2026-09-page-1.md) — Just-In-Time Memory：為 LLM Agent 動態整理任務記憶 (Just-In-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents)
 - [2026-09-22](./archives/2026-09-page-1.md) — RRSI：代理 harness 的正規化遞迴自我改進 (RRSI: Regularized Recursive Self-Improvement of Agent Harnesses)
 - [2026-09-21](./archives/2026-09-page-1.md) — 開放式技能合成：把 GitHub 倉庫抽成可重用 AI 技能 (Grounded Skill Synthesis from Code at Scale for Agentic Intelligence)
 - [2026-09-20](./archives/2026-09-page-1.md) — DeepSeek-V4.1-Flash：KV cache 壓縮再往前推一步 (DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression)

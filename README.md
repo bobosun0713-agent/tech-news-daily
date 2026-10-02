@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)](./frontend/daily/2026-10-01.md) |
-| ⚙️ 後端 | [pnpm 12 以 Rust 重寫：安裝更快但工作流幾乎不變 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)](./backend/daily/2026-10-01.md) |
-| 🤖 AI | [SoL-Refiner：單步把低解析影片升成 4K (SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video)](./ai/daily/2026-10-01.md) |
+| 🎨 前端 | [React + Vite 的 30 個計算器：靜態預渲染把 SEO 與 TTFB 一次補齊 (Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators)](./frontend/daily/2026-10-02.md) |
+| ⚙️ 後端 | [Cloudflare 把 Node.js HTTP Server 帶進 Workers：Express/Koa 可直接上邊緣 (Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers)](./backend/daily/2026-10-02.md) |
+| 🤖 AI | [Gemini 4 Argon：1M 輸出 token 專攻長篇 coding、知識工作與資安 (Gemini 4 Argon: our next era of frontier intelligence)](./ai/daily/2026-10-02.md) |
 
 ---
 
