@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-10-04](./daily/2026-10-04.md) — 瀏覽器裡的 Vim 練功場：Vite + CodeMirror + WebGPU Gemma 教練 (I built my husband a vim trainer with a Gemma coach that runs in the browser)
 - [2026-10-02](./daily/2026-10-02.md) — React + Vite 的 30 個計算器：靜態預渲染把 SEO 與 TTFB 一次補齊 (Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators)
 - [2026-10-01](./daily/2026-10-01.md) — Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)
 - [2026-09-30](./daily/2026-09-30.md) — Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)
 - [2026-09-29](./daily/2026-09-29.md) — React 19.3 正式推出：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)
 - [2026-09-28](./daily/2026-09-28.md) — React 19.3 正式上線：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)
 - [2026-09-27](./daily/2026-09-27.md) — 前端公告不是硬編碼：把應用內通知從技術債拉回架構層 (Why hardcoded in-app announcements are technical debt in disguise)
-- [2026-09-25](./daily/2026-09-25.md) — 把 RAG 引用直接標在 PDF 上：React bbox 高亮如何讓答案可追溯 (React PDF bbox Highlighting: Show RAG Citations on the Page)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-09-25](./archives/2026-09-page-1.md) — 把 RAG 引用直接標在 PDF 上：React bbox 高亮如何讓答案可追溯 (React PDF bbox Highlighting: Show RAG Citations on the Page)
 - [2026-09-24](./archives/2026-09-page-1.md) — 用 HTML + Tailwind CDN 做 5 個輕量著陸頁模板 (I built 5 lightweight landing page templates using only HTML & Tailwind CDN)
 - [2026-09-22](./archives/2026-09-page-1.md) — Vite 內建 Rust 版 React Compiler：比 Babel 快 17 倍 (The Rust React Compiler is now native in Vite — and it's 17 faster than Babel)
 - [2026-09-21](./archives/2026-09-page-1.md) — 別把 Banner Modal 硬寫死：Next.js 前端的資料驅動公告槽位 (Stop hardcoding <Banner /> modals in your Next.js codebase)

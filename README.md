@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React + Vite 的 30 個計算器：靜態預渲染把 SEO 與 TTFB 一次補齊 (Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators)](./frontend/daily/2026-10-02.md) |
-| ⚙️ 後端 | [Cloudflare 把 Node.js HTTP Server 帶進 Workers：Express/Koa 可直接上邊緣 (Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers)](./backend/daily/2026-10-02.md) |
-| 🤖 AI | [Gemini 4 Argon：1M 輸出 token 專攻長篇 coding、知識工作與資安 (Gemini 4 Argon: our next era of frontier intelligence)](./ai/daily/2026-10-02.md) |
+| 🎨 前端 | [瀏覽器裡的 Vim 練功場：Vite + CodeMirror + WebGPU Gemma 教練 (I built my husband a vim trainer with a Gemma coach that runs in the browser)](./frontend/daily/2026-10-04.md) |
+| ⚙️ 後端 | [Pizza Bot：給背景 AI 代理的開源收件匣 (Pizza Bot: Open-Source Inbox for Background AI Agents)](./backend/daily/2026-10-04.md) |
+| 🤖 AI | [AutoSynthData：用模型失敗自動生成企業代理訓練資料 (AutoSynthData: Generating Training Data for Enterprise Agents)](./ai/daily/2026-10-04.md) |
 
 ---
 
