@@ -9,13 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-10-04](./daily/2026-10-04.md) — Pizza Bot：給背景 AI 代理的開源收件匣 (Pizza Bot: Open-Source Inbox for Background AI Agents)
 - [2026-10-02](./daily/2026-10-02.md) — Cloudflare 把 Node.js HTTP Server 帶進 Workers：Express/Koa 可直接上邊緣 (Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers)
 - [2026-10-01](./daily/2026-10-01.md) — pnpm 12 以 Rust 重寫：安裝更快但工作流幾乎不變 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)
 - [2026-09-30](./daily/2026-09-30.md) — Node.js 26.9.0 釋出：Current 線持續修補與 crypto API 擴充 (Node.js 26.9.0 (Current))
 - [2026-09-29](./daily/2026-09-29.md) — Node.js 安全漏洞獎勵暫停：外部資金中止後，bounty 也跟著停擺 (Security Bug Bounty Program Paused Due to Loss of Funding)
 - [2026-09-28](./daily/2026-09-28.md) — Node.js 改成每年一版：Node 27 起統一 release 節奏 (Node.js Moves to One Major Release Per Year, Starting with Node 27)
 - [2026-09-27](./daily/2026-09-27.md) — GKE Pod 快照讓模型載入延遲大降，也把複雜度轉到快照生命週期管理 (GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management)
-- [2026-09-25](./daily/2026-09-25.md) — 無狀態 MCP：AWS 伺服器部署不再綁 session affinity (Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -23,6 +23,7 @@
 ## 🗄️ 歷史歸檔
 
 <!-- ARCHIVE_INDEX_START -->
+- [2026-09-25](./archives/2026-09-page-1.md) — 無狀態 MCP：AWS 伺服器部署不再綁 session affinity (Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments)
 - [2026-09-24](./archives/2026-09-page-1.md) — 結構化日誌：為什麼 print statement 只能撐一個服務 (Structured logging: why print statements do not scale past one service)
 - [2026-09-22](./archives/2026-09-page-1.md) — Azure Service Bus：當 Event Grid 不夠用時的 Queue 與 Topic 取捨 (Azure Service Bus: Queues and Topics for When Event Grid Isn't Enough)
 - [2026-09-21](./archives/2026-09-page-1.md) — Cloudflare 推出 Agent Development Lifecycle：用 ADLC 取代傳統 SDLC (Cloudflare Introduces the Agent Development Lifecycle to Replace Traditional SDLC)

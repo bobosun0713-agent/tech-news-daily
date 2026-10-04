@@ -9,14 +9,13 @@
 ## 📅 最近 7 天
 
 <!-- DAILY_INDEX_START -->
+- [2026-10-04](./daily/2026-10-04.md) — AutoSynthData：用模型失敗自動生成企業代理訓練資料 (AutoSynthData: Generating Training Data for Enterprise Agents)
 - [2026-10-02](./daily/2026-10-02.md) — Gemini 4 Argon：1M 輸出 token 專攻長篇 coding、知識工作與資安 (Gemini 4 Argon: our next era of frontier intelligence)
 - [2026-10-01](./daily/2026-10-01.md) — SoL-Refiner：單步把低解析影片升成 4K (SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video)
 - [2026-09-30](./daily/2026-09-30.md) — Google Research 開源 RRSI：讓 AI agents 改良自己的 harness 而不過擬合 (Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting)
 - [2026-09-29](./daily/2026-09-29.md) — Holo4：面向通用 computer-use agent 的新系列模型 (Holo4: powering generalist computer-use agents)
 - [2026-09-28](./daily/2026-09-28.md) — Exa Agent Ultra：子代理深度研究 API 把列表建構做到底 (Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building)
 - [2026-09-27](./daily/2026-09-27.md) — 世界模型的物件恆存訓練：讓模型在消失後仍記得物件 (Training Object Permanence in World Models)
-- [2026-09-25](./daily/2026-09-25.md) — 世界模型的物件恆存訓練：讓模型記住消失後的物件 (Training Object Permanence in World Models)
-- [2026-09-24](./daily/2026-09-24.md) — Just-In-Time Memory：為 LLM Agent 動態整理任務記憶 (Just-In-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents)
 <!-- DAILY_INDEX_END -->
 
 ---
