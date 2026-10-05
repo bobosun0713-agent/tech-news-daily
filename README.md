@@ -4,13 +4,14 @@
 
 ---
 
+
 ## 🗓️ 今日頭條 (Latest)
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [瀏覽器裡的 Vim 練功場：Vite + CodeMirror + WebGPU Gemma 教練 (I built my husband a vim trainer with a Gemma coach that runs in the browser)](./frontend/daily/2026-10-04.md) |
-| ⚙️ 後端 | [Pizza Bot：給背景 AI 代理的開源收件匣 (Pizza Bot: Open-Source Inbox for Background AI Agents)](./backend/daily/2026-10-04.md) |
-| 🤖 AI | [AutoSynthData：用模型失敗自動生成企業代理訓練資料 (AutoSynthData: Generating Training Data for Enterprise Agents)](./ai/daily/2026-10-04.md) |
+| 🎨 前端 | [Tailwind CSS v4.3：捲軸、色盤與 `@variant` 再進化 (Tailwind CSS v4.3: Scrollbars, new colors, and more)](./frontend/daily/2026-10-05.md) |
+| ⚙️ 後端 | [Node.js 改成一年一版：維護者負載才是節奏調整主因 (Node.js's New Release Schedule Reveals a Maintainer Crisis)](./backend/daily/2026-10-05.md) |
+| 🤖 AI | [OpenAI DevDay 2026 開發者更新：computer use、雲端 Codex 與 Decisions API (OpenAI DevDay 2026 Recap for Developers)](./ai/daily/2026-10-05.md) |
 
 ---
 
