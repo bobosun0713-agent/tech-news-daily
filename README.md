@@ -9,9 +9,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Tailwind CSS v4.3：捲軸、色盤與 `@variant` 再進化 (Tailwind CSS v4.3: Scrollbars, new colors, and more)](./frontend/daily/2026-10-05.md) |
-| ⚙️ 後端 | [Node.js 改成一年一版：維護者負載才是節奏調整主因 (Node.js's New Release Schedule Reveals a Maintainer Crisis)](./backend/daily/2026-10-05.md) |
-| 🤖 AI | [OpenAI DevDay 2026 開發者更新：computer use、雲端 Codex 與 Decisions API (OpenAI DevDay 2026 Recap for Developers)](./ai/daily/2026-10-05.md) |
+| 🎨 前端 | [React 19.3 與工具鏈週報：DevTools、cn、Vitest 一次看 (This Week In React #296: React 19.3, DevTools, Next.js, cn, Maps | 0.88 RC, Expo Modules, Navigation Benchmarks | Rslib, Vitest, gpu-lexer)](./frontend/daily/2026-10-06.md) |
+| ⚙️ 後端 | [Azure Container Apps Express 與 Sandboxes 正式 GA：agent 工作負載更快啟動 (Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer)](./backend/daily/2026-10-06.md) |
+| 🤖 AI | [OpenAI DevDay 2026 開發者更新：computer use、雲端 Codex 與 Decisions API (OpenAI DevDay 2026 Recap for Developers)](./ai/daily/2026-10-06.md) |
 
 ---
 

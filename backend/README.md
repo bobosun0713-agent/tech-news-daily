@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-06](./daily/2026-10-06.md) — Azure Container Apps Express 與 Sandboxes 正式 GA：agent 工作負載更快啟動 (Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer)
 - [2026-10-05](./daily/2026-10-05.md) — Node.js 改成一年一版：維護者負載才是節奏調整主因 (Node.js's New Release Schedule Reveals a Maintainer Crisis)
 - [2026-10-04](./daily/2026-10-04.md) — Pizza Bot：給背景 AI 代理的開源收件匣 (Pizza Bot: Open-Source Inbox for Background AI Agents)
 - [2026-10-02](./daily/2026-10-02.md) — Cloudflare 把 Node.js HTTP Server 帶進 Workers：Express/Koa 可直接上邊緣 (Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers)
 - [2026-10-01](./daily/2026-10-01.md) — pnpm 12 以 Rust 重寫：安裝更快但工作流幾乎不變 (pnpm 12 Rewrites Package Manager in Rust, Accelerating Installs While Preserving pnpm 11 Workflows)
 - [2026-09-30](./daily/2026-09-30.md) — Node.js 26.9.0 釋出：Current 線持續修補與 crypto API 擴充 (Node.js 26.9.0 (Current))
 - [2026-09-29](./daily/2026-09-29.md) — Node.js 安全漏洞獎勵暫停：外部資金中止後，bounty 也跟著停擺 (Security Bug Bounty Program Paused Due to Loss of Funding)
-- [2026-09-28](./daily/2026-09-28.md) — Node.js 改成每年一版：Node 27 起統一 release 節奏 (Node.js Moves to One Major Release Per Year, Starting with Node 27)
 <!-- DAILY_INDEX_END -->
 
 ---

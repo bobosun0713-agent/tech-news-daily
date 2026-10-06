@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-06](./daily/2026-10-06.md) — React 19.3 與工具鏈週報：DevTools、cn、Vitest 一次看 (This Week In React #296: React 19.3, DevTools, Next.js, cn, Maps | 0.88 RC, Expo Modules, Navigation Benchmarks | Rslib, Vitest, gpu-lexer)
 - [2026-10-05](./daily/2026-10-05.md) — Tailwind CSS v4.3：捲軸、色盤與 `@variant` 再進化 (Tailwind CSS v4.3: Scrollbars, new colors, and more)
 - [2026-10-04](./daily/2026-10-04.md) — 瀏覽器裡的 Vim 練功場：Vite + CodeMirror + WebGPU Gemma 教練 (I built my husband a vim trainer with a Gemma coach that runs in the browser)
 - [2026-10-02](./daily/2026-10-02.md) — React + Vite 的 30 個計算器：靜態預渲染把 SEO 與 TTFB 一次補齊 (Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators)
 - [2026-10-01](./daily/2026-10-01.md) — Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)
 - [2026-09-30](./daily/2026-09-30.md) — Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)
 - [2026-09-29](./daily/2026-09-29.md) — React 19.3 正式推出：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)
-- [2026-09-28](./daily/2026-09-28.md) — React 19.3 正式上線：View Transitions 與 Fragment Refs 進入穩定版 (React 19.3)
 <!-- DAILY_INDEX_END -->
 
 ---
