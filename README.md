@@ -4,14 +4,13 @@
 
 ---
 
-
 ## 🗓️ 今日頭條 (Latest)
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React 19.3 與工具鏈週報：DevTools、cn、Vitest 一次看 (This Week In React #296: React 19.3, DevTools, Next.js, cn, Maps | 0.88 RC, Expo Modules, Navigation Benchmarks | Rslib, Vitest, gpu-lexer)](./frontend/daily/2026-10-06.md) |
-| ⚙️ 後端 | [Azure Container Apps Express 與 Sandboxes 正式 GA：agent 工作負載更快啟動 (Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer)](./backend/daily/2026-10-06.md) |
-| 🤖 AI | [OpenAI DevDay 2026 開發者更新：computer use、雲端 Codex 與 Decisions API (OpenAI DevDay 2026 Recap for Developers)](./ai/daily/2026-10-06.md) |
+| 🎨 前端 | [免費落地頁模板盤點：9 個仍在維護的來源 (Free Landing Page Templates in 2026: 9 Sources I Checked)](./frontend/daily/2026-10-09.md) |
+| ⚙️ 後端 | [Cloudflare 修補容器跨租戶殘留資料外洩 (Cloudflare Fixes Cross-Tenant Data Exposure in Containers)](./backend/daily/2026-10-09.md) |
+| 🤖 AI | [TokenRouter：高效率的 token-level LLM routing 服務系統 (TokenRouter: Efficient Serving System for Token-Level LLM Routing)](./ai/daily/2026-10-09.md) |
 
 ---
 
