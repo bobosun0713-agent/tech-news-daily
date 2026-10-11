@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [高流量頁面重構：React/Vite/Tailwind 的遷移筆記 (Rewriting a High-Traffic Page Without Breaking It: Notes from the Listing Details Migration)](./frontend/daily/2026-10-10.md) |
-| ⚙️ 後端 | [Kafka 會話排序管線：用一致性雜湊與 watermark 保住順序 (Building a Session-Ordered Kafka Pipeline in Go)](./backend/daily/2026-10-10.md) |
-| 🤖 AI | [AgentGarten：可進化 agent 的 code worlds (AgentGarten: Code Worlds for Evolving Agents)](./ai/daily/2026-10-10.md) |
+| 🎨 前端 | [Vite 8.1 上線：bundled dev mode 與 chunk import map 一起補齊 (Vite 8.1 is out!)](./frontend/daily/2026-10-11.md) |
+| ⚙️ 後端 | [Gremlin Foresight AI：把 reliability engineering 變成 agent 協作 (Foresight AI Brings Gremlin Agents to Reliability Engineering)](./backend/daily/2026-10-11.md) |
+| 🤖 AI | [Microsoft-Decision-1：Qwen3.5-9B 決策模型正式產品化 (Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model)](./ai/daily/2026-10-11.md) |
 
 ---
 
