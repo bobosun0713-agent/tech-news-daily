@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [前端漸進遷移策略：Strangler Fig、抽象分支與垂直切片 (Strangler Fig, Branch by Abstraction, Vertical Slices: Choosing a Frontend Migration Strategy)](./frontend/daily/2026-10-12.md) |
-| ⚙️ 後端 | [GitHub Actions、Pull Requests 與 Issues 發生服務異常 (Incident with Actions, Pull Requests and Issues)](./backend/daily/2026-10-12.md) |
-| 🤖 AI | [SoftwareGym：以合成軟體環境擴展電腦操作代理訓練 (SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments)](./ai/daily/2026-10-12.md) |
+| 🎨 前端 | [Mutative 2.0：加速不可變狀態更新並修正 patches (Announcing Mutative 2.0 - Faster Updates and Safer Patches)](./frontend/daily/2026-10-13.md) |
+| ⚙️ 後端 | [AWS Lambda Web Functions：直接部署標準 HTTP 伺服器 (Announcing AWS Lambda Web Functions)](./backend/daily/2026-10-13.md) |
+| 🤖 AI | [AgentSWE：程式代理能打造出你真正需要的代理嗎？ (AgentSWE: Can Coding Agents Build the Agent You Actually Want?)](./ai/daily/2026-10-13.md) |
 
 ---
 

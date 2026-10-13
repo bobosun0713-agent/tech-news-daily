@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-13](./daily/2026-10-13.md) — Mutative 2.0：加速不可變狀態更新並修正 patches (Announcing Mutative 2.0 - Faster Updates and Safer Patches)
 - [2026-10-12](./daily/2026-10-12.md) — 前端漸進遷移策略：Strangler Fig、抽象分支與垂直切片 (Strangler Fig, Branch by Abstraction, Vertical Slices: Choosing a Frontend Migration Strategy)
 - [2026-10-11](./daily/2026-10-11.md) — Vite 8.1 上線：bundled dev mode 與 chunk import map 一起補齊 (Vite 8.1 is out!)
 - [2026-10-10](./daily/2026-10-10.md) — 高流量頁面重構：React/Vite/Tailwind 的遷移筆記 (Rewriting a High-Traffic Page Without Breaking It: Notes from the Listing Details Migration)
 - [2026-10-09](./daily/2026-10-09.md) — 免費落地頁模板盤點：9 個仍在維護的來源 (Free Landing Page Templates in 2026: 9 Sources I Checked)
 - [2026-10-06](./daily/2026-10-06.md) — React 19.3 與工具鏈週報：DevTools、cn、Vitest 一次看 (This Week In React #296: React 19.3, DevTools, Next.js, cn, Maps | 0.88 RC, Expo Modules, Navigation Benchmarks | Rslib, Vitest, gpu-lexer)
 - [2026-10-05](./daily/2026-10-05.md) — Tailwind CSS v4.3：捲軸、色盤與 `@variant` 再進化 (Tailwind CSS v4.3: Scrollbars, new colors, and more)
-- [2026-10-04](./daily/2026-10-04.md) — 瀏覽器裡的 Vim 練功場：Vite + CodeMirror + WebGPU Gemma 教練 (I built my husband a vim trainer with a Gemma coach that runs in the browser)
 <!-- DAILY_INDEX_END -->
 
 ---
