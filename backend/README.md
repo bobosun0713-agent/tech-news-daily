@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-13](./daily/2026-10-13.md) — AWS Lambda Web Functions：直接部署標準 HTTP 伺服器 (Announcing AWS Lambda Web Functions)
 - [2026-10-12](./daily/2026-10-12.md) — GitHub Actions、Pull Requests 與 Issues 發生服務異常 (Incident with Actions, Pull Requests and Issues)
 - [2026-10-11](./daily/2026-10-11.md) — Gremlin Foresight AI：把 reliability engineering 變成 agent 協作 (Foresight AI Brings Gremlin Agents to Reliability Engineering)
 - [2026-10-10](./daily/2026-10-10.md) — Kafka 會話排序管線：用一致性雜湊與 watermark 保住順序 (Building a Session-Ordered Kafka Pipeline in Go)
 - [2026-10-09](./daily/2026-10-09.md) — Cloudflare 修補容器跨租戶殘留資料外洩 (Cloudflare Fixes Cross-Tenant Data Exposure in Containers)
 - [2026-10-06](./daily/2026-10-06.md) — Azure Container Apps Express 與 Sandboxes 正式 GA：agent 工作負載更快啟動 (Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer)
 - [2026-10-05](./daily/2026-10-05.md) — Node.js 改成一年一版：維護者負載才是節奏調整主因 (Node.js's New Release Schedule Reveals a Maintainer Crisis)
-- [2026-10-04](./daily/2026-10-04.md) — Pizza Bot：給背景 AI 代理的開源收件匣 (Pizza Bot: Open-Source Inbox for Background AI Agents)
 <!-- DAILY_INDEX_END -->
 
 ---
