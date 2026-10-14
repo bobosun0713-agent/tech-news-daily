@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [Mutative 2.0：加速不可變狀態更新並修正 patches (Announcing Mutative 2.0 - Faster Updates and Safer Patches)](./frontend/daily/2026-10-13.md) |
-| ⚙️ 後端 | [AWS Lambda Web Functions：直接部署標準 HTTP 伺服器 (Announcing AWS Lambda Web Functions)](./backend/daily/2026-10-13.md) |
-| 🤖 AI | [AgentSWE：程式代理能打造出你真正需要的代理嗎？ (AgentSWE: Can Coding Agents Build the Agent You Actually Want?)](./ai/daily/2026-10-13.md) |
+| 🎨 前端 | [TanStack Start 1.0 穩定版登陸 Appwrite Sites (TanStack Start is stable, and it runs on Appwrite Sites)](./frontend/daily/2026-10-14.md) |
+| ⚙️ 後端 | [PgBouncer 1.26.1 修補 SCRAM 認證繞過與拒絕服務漏洞 (PgBouncer 1.26.1)](./backend/daily/2026-10-14.md) |
+| 🤖 AI | [AIPOCH Open-Science 推出可攜式 `.science` 研究封裝 (AIPOCH Launches Open-Science, Making Research Easier to Follow, Learn From, and Share with .science Packages)](./ai/daily/2026-10-14.md) |
 
 ---
 
