@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [TanStack Start 1.0 穩定版登陸 Appwrite Sites (TanStack Start is stable, and it runs on Appwrite Sites)](./frontend/daily/2026-10-14.md) |
-| ⚙️ 後端 | [PgBouncer 1.26.1 修補 SCRAM 認證繞過與拒絕服務漏洞 (PgBouncer 1.26.1)](./backend/daily/2026-10-14.md) |
-| 🤖 AI | [AIPOCH Open-Science 推出可攜式 `.science` 研究封裝 (AIPOCH Launches Open-Science, Making Research Easier to Follow, Learn From, and Share with .science Packages)](./ai/daily/2026-10-14.md) |
+| ⚙️ 後端 | [Grafana Tempo 3.1：查詢式追蹤資料刪除與採樣感知指標 (Grafana Tempo 3.1 Adds Query-Based Trace Redaction and Sampling-Aware TraceQL Metrics)](./backend/daily/2026-10-15.md) |
+| 🤖 AI | [CALIF：修正可驗證指令遵循中的獎勵駭客行為 (Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following)](./ai/daily/2026-10-15.md) |
 
 ---
 
