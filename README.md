@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [TanStack Start 1.0 穩定版登陸 Appwrite Sites (TanStack Start is stable, and it runs on Appwrite Sites)](./frontend/daily/2026-10-14.md) |
-| ⚙️ 後端 | [Grafana Tempo 3.1：查詢式追蹤資料刪除與採樣感知指標 (Grafana Tempo 3.1 Adds Query-Based Trace Redaction and Sampling-Aware TraceQL Metrics)](./backend/daily/2026-10-15.md) |
-| 🤖 AI | [CALIF：修正可驗證指令遵循中的獎勵駭客行為 (Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following)](./ai/daily/2026-10-15.md) |
+| 🎨 前端 | [用單一 CLI 與設定檔為 Vite+ 加入瀏覽器測試 (One CLI, one config file: adding browser tests to a Vite+ project)](./frontend/daily/2026-10-16.md) |
+| ⚙️ 後端 | [PostgreSQL 19 平行 autovacuum 實測：worker 增多，總耗時幾乎不變 (PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged)](./backend/daily/2026-10-16.md) |
+| 🤖 AI | [FDE-Gym：評測代理能否完成真實客戶交付 (FDE-Gym: The Last Mile of AI Delivery)](./ai/daily/2026-10-16.md) |
 
 ---
 
