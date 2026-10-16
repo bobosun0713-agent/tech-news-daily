@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-16](./daily/2026-10-16.md) — 用單一 CLI 與設定檔為 Vite+ 加入瀏覽器測試 (One CLI, one config file: adding browser tests to a Vite+ project)
 - [2026-10-14](./daily/2026-10-14.md) — TanStack Start 1.0 穩定版登陸 Appwrite Sites (TanStack Start is stable, and it runs on Appwrite Sites)
 - [2026-10-13](./daily/2026-10-13.md) — Mutative 2.0：加速不可變狀態更新並修正 patches (Announcing Mutative 2.0 - Faster Updates and Safer Patches)
 - [2026-10-12](./daily/2026-10-12.md) — 前端漸進遷移策略：Strangler Fig、抽象分支與垂直切片 (Strangler Fig, Branch by Abstraction, Vertical Slices: Choosing a Frontend Migration Strategy)
 - [2026-10-11](./daily/2026-10-11.md) — Vite 8.1 上線：bundled dev mode 與 chunk import map 一起補齊 (Vite 8.1 is out!)
 - [2026-10-10](./daily/2026-10-10.md) — 高流量頁面重構：React/Vite/Tailwind 的遷移筆記 (Rewriting a High-Traffic Page Without Breaking It: Notes from the Listing Details Migration)
 - [2026-10-09](./daily/2026-10-09.md) — 免費落地頁模板盤點：9 個仍在維護的來源 (Free Landing Page Templates in 2026: 9 Sources I Checked)
-- [2026-10-06](./daily/2026-10-06.md) — React 19.3 與工具鏈週報：DevTools、cn、Vitest 一次看 (This Week In React #296: React 19.3, DevTools, Next.js, cn, Maps | 0.88 RC, Expo Modules, Navigation Benchmarks | Rslib, Vitest, gpu-lexer)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-06](./archives/2026-10-page-1.md) — React 19.3 與工具鏈週報：DevTools、cn、Vitest 一次看 (This Week In React #296: React 19.3, DevTools, Next.js, cn, Maps | 0.88 RC, Expo Modules, Navigation Benchmarks | Rslib, Vitest, gpu-lexer)
 - [2026-10-05](./archives/2026-10-page-1.md) — Tailwind CSS v4.3：捲軸、色盤與 `@variant` 再進化 (Tailwind CSS v4.3: Scrollbars, new colors, and more)
 - [2026-10-02](./archives/2026-10-page-1.md) — React + Vite 的 30 個計算器：靜態預渲染把 SEO 與 TTFB 一次補齊 (Architecting an All-in-One Utility Suite: Scaling React Static Pre-Rendering to 30 Calculators)
 - [2026-10-01](./archives/2026-10-page-1.md) — Tailwind Labs 加入 Shopify：Tailwind 進入 Shopify 時代 (Tailwind Labs is joining Shopify)
