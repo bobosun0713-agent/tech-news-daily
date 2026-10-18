@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-18](./daily/2026-10-18.md) — TanStack Start 對決 Next.js：同一應用的效能實測 (TanStack Start vs Next.js in 2026: Same App, Real Benchmarks)
 - [2026-10-16](./daily/2026-10-16.md) — 用單一 CLI 與設定檔為 Vite+ 加入瀏覽器測試 (One CLI, one config file: adding browser tests to a Vite+ project)
 - [2026-10-14](./daily/2026-10-14.md) — TanStack Start 1.0 穩定版登陸 Appwrite Sites (TanStack Start is stable, and it runs on Appwrite Sites)
 - [2026-10-13](./daily/2026-10-13.md) — Mutative 2.0：加速不可變狀態更新並修正 patches (Announcing Mutative 2.0 - Faster Updates and Safer Patches)
 - [2026-10-12](./daily/2026-10-12.md) — 前端漸進遷移策略：Strangler Fig、抽象分支與垂直切片 (Strangler Fig, Branch by Abstraction, Vertical Slices: Choosing a Frontend Migration Strategy)
 - [2026-10-11](./daily/2026-10-11.md) — Vite 8.1 上線：bundled dev mode 與 chunk import map 一起補齊 (Vite 8.1 is out!)
 - [2026-10-10](./daily/2026-10-10.md) — 高流量頁面重構：React/Vite/Tailwind 的遷移筆記 (Rewriting a High-Traffic Page Without Breaking It: Notes from the Listing Details Migration)
-- [2026-10-09](./daily/2026-10-09.md) — 免費落地頁模板盤點：9 個仍在維護的來源 (Free Landing Page Templates in 2026: 9 Sources I Checked)
 <!-- DAILY_INDEX_END -->
 
 ---
