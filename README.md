@@ -8,7 +8,7 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [用單一 CLI 與設定檔為 Vite+ 加入瀏覽器測試 (One CLI, one config file: adding browser tests to a Vite+ project)](./frontend/daily/2026-10-16.md) |
+| 🎨 前端 | [TanStack Start 對決 Next.js：同一應用的效能實測 (TanStack Start vs Next.js in 2026: Same App, Real Benchmarks)](./frontend/daily/2026-10-18.md) |
 | ⚙️ 後端 | [PostgreSQL 19 平行 autovacuum 實測：worker 增多，總耗時幾乎不變 (PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged)](./backend/daily/2026-10-16.md) |
 | 🤖 AI | [DeepSeek V4.1-Flash-1017 改善基準並開放 Search／Fetch API (DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API)](./ai/daily/2026-10-17.md) |
 
