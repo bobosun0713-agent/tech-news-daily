@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-19](./daily/2026-10-19.md) — KVM guest-to-host 漏洞 CVE-2026-99999：畸形 IPv4 封包可破壞 VM 隔離 (Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking)
 - [2026-10-16](./daily/2026-10-16.md) — PostgreSQL 19 平行 autovacuum 實測：worker 增多，總耗時幾乎不變 (PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged)
 - [2026-10-15](./daily/2026-10-15.md) — Grafana Tempo 3.1：查詢式追蹤資料刪除與採樣感知指標 (Grafana Tempo 3.1 Adds Query-Based Trace Redaction and Sampling-Aware TraceQL Metrics)
 - [2026-10-14](./daily/2026-10-14.md) — PgBouncer 1.26.1 修補 SCRAM 認證繞過與拒絕服務漏洞 (PgBouncer 1.26.1)
 - [2026-10-13](./daily/2026-10-13.md) — AWS Lambda Web Functions：直接部署標準 HTTP 伺服器 (Announcing AWS Lambda Web Functions)
 - [2026-10-12](./daily/2026-10-12.md) — GitHub Actions、Pull Requests 與 Issues 發生服務異常 (Incident with Actions, Pull Requests and Issues)
 - [2026-10-11](./daily/2026-10-11.md) — Gremlin Foresight AI：把 reliability engineering 變成 agent 協作 (Foresight AI Brings Gremlin Agents to Reliability Engineering)
-- [2026-10-10](./daily/2026-10-10.md) — Kafka 會話排序管線：用一致性雜湊與 watermark 保住順序 (Building a Session-Ordered Kafka Pipeline in Go)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-10](./archives/2026-10-page-1.md) — Kafka 會話排序管線：用一致性雜湊與 watermark 保住順序 (Building a Session-Ordered Kafka Pipeline in Go)
 - [2026-10-09](./archives/2026-10-page-1.md) — Cloudflare 修補容器跨租戶殘留資料外洩 (Cloudflare Fixes Cross-Tenant Data Exposure in Containers)
 - [2026-10-06](./archives/2026-10-page-1.md) — Azure Container Apps Express 與 Sandboxes 正式 GA：讓 agent 工作負載更快啟動 (Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer)
 - [2026-10-05](./archives/2026-10-page-1.md) — Node.js 改成一年一版：維護者負載才是節奏調整主因 (Node.js's New Release Schedule Reveals a Maintainer Crisis)

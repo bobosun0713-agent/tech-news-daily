@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [TanStack Start 對決 Next.js：同一應用的效能實測 (TanStack Start vs Next.js in 2026: Same App, Real Benchmarks)](./frontend/daily/2026-10-18.md) |
-| ⚙️ 後端 | [PostgreSQL 19 平行 autovacuum 實測：worker 增多，總耗時幾乎不變 (PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged)](./backend/daily/2026-10-16.md) |
-| 🤖 AI | [DeepSeek V4.1-Flash-1017 改善基準並開放 Search／Fetch API (DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API)](./ai/daily/2026-10-17.md) |
+| 🎨 前端 | [React Native 0.88：事件派送改用網頁標準，並支援可變字型與 iOS SceneDelegate (React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes)](./frontend/daily/2026-10-19.md) |
+| ⚙️ 後端 | [KVM guest-to-host 漏洞 CVE-2026-99999：畸形 IPv4 封包可破壞 VM 隔離 (Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking)](./backend/daily/2026-10-19.md) |
+| 🤖 AI | [MOSS-Image：強化中英文長文字與版面控制的開放 5B 文生圖系統 (MOSS-Image Technical Report)](./ai/daily/2026-10-19.md) |
 
 ---
 
