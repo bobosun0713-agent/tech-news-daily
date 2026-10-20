@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-20](./daily/2026-10-20.md) — DeepInfer：DeepSeek 開源 V4.1-Flash 推理框架 (DeepSeek just open-sourced its inference engine)
 - [2026-10-19](./daily/2026-10-19.md) — MOSS-Image：強化中英文長文字與版面控制的開放 5B 文生圖系統 (MOSS-Image Technical Report)
 - [2026-10-17](./daily/2026-10-17.md) — DeepSeek V4.1-Flash-1017 改善基準並開放 Search／Fetch API (DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API)
 - [2026-10-16](./daily/2026-10-16.md) — FDE-Gym：評測代理能否完成真實客戶交付 (FDE-Gym: The Last Mile of AI Delivery)
 - [2026-10-15](./daily/2026-10-15.md) — CALIF：修正可驗證指令遵循中的獎勵駭客行為 (Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following)
 - [2026-10-14](./daily/2026-10-14.md) — AIPOCH Open-Science 推出可攜式 `.science` 研究封裝 (AIPOCH Launches Open-Science, Making Research Easier to Follow, Learn From, and Share with .science Packages)
 - [2026-10-13](./daily/2026-10-13.md) — AgentSWE：程式代理能打造出你真正需要的代理嗎？ (AgentSWE: Can Coding Agents Build the Agent You Actually Want?)
-- [2026-10-12](./daily/2026-10-12.md) — SoftwareGym：以合成軟體環境擴展電腦操作代理訓練 (SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-12](./archives/2026-10-page-1.md) — SoftwareGym：以合成軟體環境擴展電腦操作代理訓練 (SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments)
 - [2026-10-11](./archives/2026-10-page-1.md) — Microsoft-Decision-1：Qwen3.5-9B 決策模型正式產品化 (Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model)
 - [2026-10-10](./archives/2026-10-page-1.md) — AgentGarten：可進化 agent 的 code worlds (AgentGarten: Code Worlds for Evolving Agents)
 - [2026-10-09](./archives/2026-10-page-1.md) — TokenRouter：高效率的 token-level LLM routing 服務系統 (TokenRouter: Efficient Serving System for Token-Level LLM Routing)
