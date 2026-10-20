@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [React Native 0.88：事件派送改用網頁標準，並支援可變字型與 iOS SceneDelegate (React Native 0.88 - Web-Based Event Dispatching, Variable Fonts, SceneDelegate, no breaking changes)](./frontend/daily/2026-10-19.md) |
-| ⚙️ 後端 | [KVM guest-to-host 漏洞 CVE-2026-99999：畸形 IPv4 封包可破壞 VM 隔離 (Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking)](./backend/daily/2026-10-19.md) |
-| 🤖 AI | [MOSS-Image：強化中英文長文字與版面控制的開放 5B 文生圖系統 (MOSS-Image Technical Report)](./ai/daily/2026-10-19.md) |
+| 🎨 前端 | [create-vite 9.3.1：修正 TypeScript 版本與 TanStack 範本 (create-vite@9.3.1)](./frontend/daily/2026-10-20.md) |
+| ⚙️ 後端 | [Google Cloud 倫敦區域電力事故影響銀行與多項雲端服務 (Google cloud outage takes down HSBC, Revolut, Bank of Scotland, Llyods, Equifax, more)](./backend/daily/2026-10-20.md) |
+| 🤖 AI | [DeepInfer：DeepSeek 開源 V4.1-Flash 推理框架 (DeepSeek just open-sourced its inference engine)](./ai/daily/2026-10-20.md) |
 
 ---
 
