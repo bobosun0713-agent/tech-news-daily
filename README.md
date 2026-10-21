@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [create-vite 9.3.1：修正 TypeScript 版本與 TanStack 範本 (create-vite@9.3.1)](./frontend/daily/2026-10-20.md) |
-| ⚙️ 後端 | [Google Cloud 倫敦區域電力事故影響銀行與多項雲端服務 (Google cloud outage takes down HSBC, Revolut, Bank of Scotland, Llyods, Equifax, more)](./backend/daily/2026-10-20.md) |
-| 🤖 AI | [DeepInfer：DeepSeek 開源 V4.1-Flash 推理框架 (DeepSeek just open-sourced its inference engine)](./ai/daily/2026-10-20.md) |
+| ⚙️ 後端 | [PingCAP TiDB Cloud 資料外洩：攻擊者聲稱持續複製控制平面資料 (The PingCAP TiDB Cloud Leaks)](./backend/daily/2026-10-21.md) |
+| 🤖 AI | [FocusGUI：讓多模態 GUI 代理聚焦當下所需訊號 (Focused Omni-Modal GUI Agents)](./ai/daily/2026-10-21.md) |
 
 ---
 
