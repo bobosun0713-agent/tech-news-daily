@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [create-vite 9.3.1：修正 TypeScript 版本與 TanStack 範本 (create-vite@9.3.1)](./frontend/daily/2026-10-20.md) |
-| ⚙️ 後端 | [PingCAP TiDB Cloud 資料外洩：攻擊者聲稱持續複製控制平面資料 (The PingCAP TiDB Cloud Leaks)](./backend/daily/2026-10-21.md) |
-| 🤖 AI | [FocusGUI：讓多模態 GUI 代理聚焦當下所需訊號 (Focused Omni-Modal GUI Agents)](./ai/daily/2026-10-21.md) |
+| 🎨 前端 | [共用表單元件漏接欄位提示，造成讀屏器無法取得說明 (Four form components hold every form in our app, and writing this post found the one bug in them)](./frontend/daily/2026-10-22.md) |
+| ⚙️ 後端 | [快取很容易，失效才是系統故障的起點：實務指南 (Caching Is Easy. Cache Invalidation Is Where Systems Break: A Practical Guide)](./backend/daily/2026-10-22.md) |
+| 🤖 AI | [代理快取工程：直接管理 KV 狀態而不重算對話歷史 (Cache Engineering for Agents)](./ai/daily/2026-10-22.md) |
 
 ---
 
