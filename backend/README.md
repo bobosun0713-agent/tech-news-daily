@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-22](./daily/2026-10-22.md) — 快取很容易，失效才是系統故障的起點：實務指南 (Caching Is Easy. Cache Invalidation Is Where Systems Break: A Practical Guide)
 - [2026-10-21](./daily/2026-10-21.md) — PingCAP TiDB Cloud 資料外洩：攻擊者聲稱持續複製控制平面資料 (The PingCAP TiDB Cloud Leaks)
 - [2026-10-20](./daily/2026-10-20.md) — Google Cloud 倫敦區域電力事故影響銀行與多項雲端服務 (Google cloud outage takes down HSBC, Revolut, Bank of Scotland, Llyods, Equifax, more)
 - [2026-10-19](./daily/2026-10-19.md) — KVM guest-to-host 漏洞 CVE-2026-99999：畸形 IPv4 封包可破壞 VM 隔離 (Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking)
 - [2026-10-16](./daily/2026-10-16.md) — PostgreSQL 19 平行 autovacuum 實測：worker 增多，總耗時幾乎不變 (PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged)
 - [2026-10-15](./daily/2026-10-15.md) — Grafana Tempo 3.1：查詢式追蹤資料刪除與採樣感知指標 (Grafana Tempo 3.1 Adds Query-Based Trace Redaction and Sampling-Aware TraceQL Metrics)
 - [2026-10-14](./daily/2026-10-14.md) — PgBouncer 1.26.1 修補 SCRAM 認證繞過與拒絕服務漏洞 (PgBouncer 1.26.1)
-- [2026-10-13](./daily/2026-10-13.md) — AWS Lambda Web Functions：直接部署標準 HTTP 伺服器 (Announcing AWS Lambda Web Functions)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-13](./daily/2026-10-13.md) — AWS Lambda Web Functions：直接部署標準 HTTP 伺服器 (Announcing AWS Lambda Web Functions)
 - [2026-10-12](./archives/2026-10-page-1.md) — GitHub Actions、Pull Requests 與 Issues 發生服務異常 (Incident with Actions, Pull Requests and Issues)
 - [2026-10-11](./archives/2026-10-page-1.md) — Gremlin Foresight AI：把 reliability engineering 變成 agent 協作 (Foresight AI Brings Gremlin Agents to Reliability Engineering)
 - [2026-10-10](./archives/2026-10-page-1.md) — Kafka 會話排序管線：用一致性雜湊與 watermark 保住順序 (Building a Session-Ordered Kafka Pipeline in Go)
