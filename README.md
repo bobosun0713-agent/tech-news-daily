@@ -8,9 +8,9 @@
 
 | 領域 | 今日最重要一則 |
 |------|--------------|
-| 🎨 前端 | [共用表單元件漏接欄位提示，造成讀屏器無法取得說明 (Four form components hold every form in our app, and writing this post found the one bug in them)](./frontend/daily/2026-10-22.md) |
-| ⚙️ 後端 | [快取很容易，失效才是系統故障的起點：實務指南 (Caching Is Easy. Cache Invalidation Is Where Systems Break: A Practical Guide)](./backend/daily/2026-10-22.md) |
-| 🤖 AI | [代理快取工程：直接管理 KV 狀態而不重算對話歷史 (Cache Engineering for Agents)](./ai/daily/2026-10-22.md) |
+| 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
+| ⚙️ 後端 | [PHP 公布另一條未修補 RCE：CVE-2026-115560 (Informational advisory: Session upload progress)](./backend/daily/2026-10-23.md) |
+| 🤖 AI | [MiniMax M3.1 Flash 公開權重：428B MoE、每 token 啟用 23B (M3.1 Flash weights are now open)](./ai/daily/2026-10-23.md) |
 
 ---
 
