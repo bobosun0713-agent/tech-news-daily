@@ -10,13 +10,13 @@
 
 <!-- DAILY_INDEX_START -->
 
+- [2026-10-27](./daily/2026-10-27.md) — Trajectory2Gym：以決策依據與組合覆蓋合成工具互動 (Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents)
 - [2026-10-23](./daily/2026-10-23.md) — MiniMax M3.1 Flash 公開權重：428B MoE、每 token 啟用 23B (M3.1 Flash weights are now open)
 - [2026-10-22](./daily/2026-10-22.md) — 代理快取工程：直接管理 KV 狀態而不重算對話歷史 (Cache Engineering for Agents)
 - [2026-10-21](./daily/2026-10-21.md) — FocusGUI：讓多模態 GUI 代理聚焦當下所需訊號 (Focused Omni-Modal GUI Agents)
 - [2026-10-20](./daily/2026-10-20.md) — DeepInfer：DeepSeek 開源 V4.1-Flash 推理框架 (DeepSeek just open-sourced its inference engine)
 - [2026-10-19](./daily/2026-10-19.md) — MOSS-Image：強化中英文長文字與版面控制的開放 5B 文生圖系統 (MOSS-Image Technical Report)
 - [2026-10-17](./daily/2026-10-17.md) — DeepSeek V4.1-Flash-1017 改善基準並開放 Search／Fetch API (DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API)
-- [2026-10-16](./daily/2026-10-16.md) — FDE-Gym：評測代理能否完成真實客戶交付 (FDE-Gym: The Last Mile of AI Delivery)
 <!-- DAILY_INDEX_END -->
 
 ---
@@ -25,6 +25,7 @@
 
 <!-- ARCHIVE_INDEX_START -->
 
+- [2026-10-16](./archives/2026-10-page-1.md) — FDE-Gym：評測代理能否完成真實客戶交付 (FDE-Gym: The Last Mile of AI Delivery)
 - [2026-10-15](./archives/2026-10-page-1.md) — CALIF：修正可驗證指令遵循中的獎勵駭客行為 (Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following)
 - [2026-10-14](./daily/2026-10-14.md) — AIPOCH Open-Science 推出可攜式 `.science` 研究封裝 (AIPOCH Launches Open-Science, Making Research Easier to Follow, Learn From, and Share with .science Packages)
 - [2026-10-13](./archives/2026-10-page-1.md) — AgentSWE：程式代理能打造出你真正需要的代理嗎？ (AgentSWE: Can Coding Agents Build the Agent You Actually Want?)

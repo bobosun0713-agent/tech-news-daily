@@ -10,7 +10,7 @@
 |------|--------------|
 | 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
 | ⚙️ 後端 | [PHP 公布另一條未修補 RCE：CVE-2026-115560 (Informational advisory: Session upload progress)](./backend/daily/2026-10-23.md) |
-| 🤖 AI | [MiniMax M3.1 Flash 公開權重：428B MoE、每 token 啟用 23B (M3.1 Flash weights are now open)](./ai/daily/2026-10-23.md) |
+| 🤖 AI | [Trajectory2Gym：以決策依據與組合覆蓋合成工具互動 (Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents)](./ai/daily/2026-10-27.md) |
 
 ---
 
