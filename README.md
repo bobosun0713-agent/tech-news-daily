@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
-| ⚙️ 後端 | [PHP 公布另一條未修補 RCE：CVE-2026-115560 (Informational advisory: Session upload progress)](./backend/daily/2026-10-23.md) |
-| 🤖 AI | [Trajectory2Gym：以決策依據與組合覆蓋合成工具互動 (Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents)](./ai/daily/2026-10-27.md) |
+| ⚙️ 後端 | [Supabase 將停止自動授權新資料表：舊專案也須明確 GRANT (Supabase's 30 Oct change: the next table your AI builder creates needs a GRANT. Here's the 2-minute check.)](./backend/daily/2026-10-28.md) |
+| 🤖 AI | [Agent 記憶的隱形成本：不少系統不如直接檢索原始歷史 (Memory Tax: Dissecting the Net Value of Agent Memory)](./ai/daily/2026-10-28.md) |
 
 ---
 
