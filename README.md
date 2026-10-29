@@ -9,8 +9,8 @@
 | 領域 | 今日最重要一則 |
 |------|--------------|
 | 🎨 前端 | [React 登入分頁的 OAuth 流程意外讓訪客繞過邀請制 (My Invite-Only Gate Lived in the Browser)](./frontend/daily/2026-10-23.md) |
-| ⚙️ 後端 | [Supabase 將停止自動授權新資料表：舊專案也須明確 GRANT (Supabase's 30 Oct change: the next table your AI builder creates needs a GRANT. Here's the 2-minute check.)](./backend/daily/2026-10-28.md) |
-| 🤖 AI | [Agent 記憶的隱形成本：不少系統不如直接檢索原始歷史 (Memory Tax: Dissecting the Net Value of Agent Memory)](./ai/daily/2026-10-28.md) |
+| ⚙️ 後端 | [Hono 部署 Prisma Postgres／Compute：實測流程與連線陷阱 (Hono on Prisma Postgres and Compute, What Worked and What Broke)](./backend/daily/2026-10-29.md) |
+| 🤖 AI | [TAO：依工具返回時機聯合排程 LLM Agent 服務 (TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving)](./ai/daily/2026-10-29.md) |
 
 ---
 
